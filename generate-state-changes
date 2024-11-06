@@ -507,7 +507,7 @@ for rows in records.values():
     state_name = rows[0].state_name
 
     summarized[state_name] = []
-    state_formatted_name[state_name] = f"{state_name} (EV: {rows[0].electoral_votes})"
+    state_formatted_name[state_name] = state_name
     state_abbrev[state_name] = rows[0].state_abbrev
 
     last_iteration_info = IterationInfo(
