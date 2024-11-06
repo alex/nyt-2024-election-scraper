@@ -4,7 +4,7 @@
   <title>NYT 2024 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2024-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Wed, 06 Nov 2024 14:45:58 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 Nov 2024 15:01:35 -0000</lastBuildDate>
   <item>
    <description>Alabama: Donald Trump +687011</description>
    <pubDate>Wed, 06 Nov 2024 14:33:28 -0000</pubDate>
@@ -96,9 +96,9 @@
    <guid isPermaLink="false">louisiana@1730869115.497</guid>
   </item>
   <item>
-   <description>Maine: Donald Trump +22167</description>
-   <pubDate>Wed, 06 Nov 2024 14:45:58 -0000</pubDate>
-   <guid isPermaLink="false">maine@1730904358.218</guid>
+   <description>Maine: Donald Trump +22578</description>
+   <pubDate>Wed, 06 Nov 2024 15:01:35 -0000</pubDate>
+   <guid isPermaLink="false">maine@1730905295.604</guid>
   </item>
   <item>
    <description>Maryland: Kamala Harris +564860</description>
@@ -137,8 +137,8 @@
   </item>
   <item>
    <description>Nebraska: Donald Trump +166748</description>
-   <pubDate>Wed, 06 Nov 2024 14:45:58 -0000</pubDate>
-   <guid isPermaLink="false">nebraska@1730904358.218</guid>
+   <pubDate>Wed, 06 Nov 2024 15:01:35 -0000</pubDate>
+   <guid isPermaLink="false">nebraska@1730905295.604</guid>
   </item>
   <item>
    <description>Nevada: Donald Trump +59862</description>
@@ -162,8 +162,8 @@
   </item>
   <item>
    <description>New York: Kamala Harris +813056</description>
-   <pubDate>Wed, 06 Nov 2024 14:45:58 -0000</pubDate>
-   <guid isPermaLink="false">new-york@1730904358.218</guid>
+   <pubDate>Wed, 06 Nov 2024 15:01:35 -0000</pubDate>
+   <guid isPermaLink="false">new-york@1730905295.604</guid>
   </item>
   <item>
    <description>North Carolina: Donald Trump +191543</description>
@@ -192,8 +192,8 @@
   </item>
   <item>
    <description>Pennsylvania: Donald Trump +155426</description>
-   <pubDate>Wed, 06 Nov 2024 14:19:40 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1730902780.506</guid>
+   <pubDate>Wed, 06 Nov 2024 15:01:35 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1730905295.604</guid>
   </item>
   <item>
    <description>Rhode Island: Kamala Harris +64275</description>
@@ -207,8 +207,8 @@
   </item>
   <item>
    <description>South Dakota: Donald Trump +121522</description>
-   <pubDate>Wed, 06 Nov 2024 14:45:58 -0000</pubDate>
-   <guid isPermaLink="false">south-dakota@1730904358.218</guid>
+   <pubDate>Wed, 06 Nov 2024 15:01:35 -0000</pubDate>
+   <guid isPermaLink="false">south-dakota@1730905295.604</guid>
   </item>
   <item>
    <description>Tennessee: Donald Trump +913481</description>
@@ -231,9 +231,9 @@
    <guid isPermaLink="false">vermont@1730874802.626</guid>
   </item>
   <item>
-   <description>Virginia: Kamala Harris +225053</description>
-   <pubDate>Wed, 06 Nov 2024 14:00:00 -0000</pubDate>
-   <guid isPermaLink="false">virginia@1730901600.42</guid>
+   <description>Virginia: Kamala Harris +225068</description>
+   <pubDate>Wed, 06 Nov 2024 15:01:35 -0000</pubDate>
+   <guid isPermaLink="false">virginia@1730905295.604</guid>
   </item>
   <item>
    <description>Washington: Kamala Harris +508681</description>
