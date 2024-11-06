@@ -4,7 +4,7 @@
   <title>NYT 2024 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2024-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Wed, 06 Nov 2024 13:07:30 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 Nov 2024 13:31:49 -0000</lastBuildDate>
   <item>
    <description>Alabama: Donald Trump +685088</description>
    <pubDate>Wed, 06 Nov 2024 08:34:59 -0000</pubDate>
@@ -97,8 +97,8 @@
   </item>
   <item>
    <description>Maine: Donald Trump +22838</description>
-   <pubDate>Wed, 06 Nov 2024 13:21:29 -0000</pubDate>
-   <guid isPermaLink="false">maine@1730899289.576</guid>
+   <pubDate>Wed, 06 Nov 2024 13:31:49 -0000</pubDate>
+   <guid isPermaLink="false">maine@1730899909.453</guid>
   </item>
   <item>
    <description>Maryland: Kamala Harris +564860</description>
@@ -137,8 +137,8 @@
   </item>
   <item>
    <description>Nebraska: Donald Trump +166748</description>
-   <pubDate>Wed, 06 Nov 2024 13:21:29 -0000</pubDate>
-   <guid isPermaLink="false">nebraska@1730899289.576</guid>
+   <pubDate>Wed, 06 Nov 2024 13:31:49 -0000</pubDate>
+   <guid isPermaLink="false">nebraska@1730899909.453</guid>
   </item>
   <item>
    <description>Nevada: Donald Trump +59862</description>
@@ -191,9 +191,9 @@
    <guid isPermaLink="false">oregon@1730893550.175</guid>
   </item>
   <item>
-   <description>Pennsylvania: Donald Trump +165960</description>
-   <pubDate>Wed, 06 Nov 2024 12:41:49 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1730896909.148</guid>
+   <description>Pennsylvania: Donald Trump +156092</description>
+   <pubDate>Wed, 06 Nov 2024 13:31:49 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1730899909.453</guid>
   </item>
   <item>
    <description>Rhode Island: Kamala Harris +64431</description>
@@ -206,9 +206,9 @@
    <guid isPermaLink="false">south-carolina@1730882099.737</guid>
   </item>
   <item>
-   <description>South Dakota: Donald Trump +118190</description>
-   <pubDate>Wed, 06 Nov 2024 13:07:30 -0000</pubDate>
-   <guid isPermaLink="false">south-dakota@1730898450.448</guid>
+   <description>South Dakota: Donald Trump +119660</description>
+   <pubDate>Wed, 06 Nov 2024 13:31:49 -0000</pubDate>
+   <guid isPermaLink="false">south-dakota@1730899909.453</guid>
   </item>
   <item>
    <description>Tennessee: Donald Trump +913481</description>
