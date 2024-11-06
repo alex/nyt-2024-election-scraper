@@ -25,7 +25,7 @@ BATTLEGROUND_STATES = [
     "Pennsylvania",
     "Wisconsin",
 ]
-STATE_INDEXES = range(55)  # 50 States + DC
+STATE_INDEXES = range(55)  # TODO: Offsets go to 55 now, circle back and figure out why?
 
 CACHE_DIR = "_cache"
 # Bump this with any changes to `fetch_all_records`
@@ -68,33 +68,22 @@ def fetch_all_records():
                     continue
         blob = git_show(ref, "results.json", repo)
         parsed = json.loads(blob)
-        # json = parser.parse(blob)
         timestamp = parsed["resultsMeta"]["resultsUpdatedAt"]
         rows = []
         for index in STATE_INDEXES:
             race = parsed["races"][index]["top_reporting_unit"]
 
-            # county_tot_exp_vote = [county['tot_exp_vote'] for county in race.get('counties', [])]
-            # if all(county_tot_exp_vote is not None and county_tot_exp_vote > 0 for county_tot_exp_vote in county_tot_exp_vote):
-            #     tot_exp_vote = sum(county_tot_exp_vote)
-            # else:
-            #     # NYT's data doesn't seem to have a county-by-county vote
-            #     # estimate for the following states: Connecticut, Massachusetts,
-            #     # Maine, New Hampshire, Rhode Island, and Vermont. So we have to
-            #     # fall back to the state wide one.
-            tot_exp_vote = race["total_expected_vote"]
-
             record = InputRecord(
                 timestamp,
                 race["name"],
                 race["nyt_id"],
-                0,  # race['electoral_votes'],
+                0,  # race['electoral_votes'], # TODO: Re-add the electoral college vote number
                 race["candidates"],
                 race["total_votes"],
-                tot_exp_vote,
+                race["total_expected_vote"],
                 race["precincts_total"],
                 race["precincts_reporting"],
-                {},  # {n['name']: n['votes'] for n in race['counties']},
+                {},  # {n['name']: n['votes'] for n in race['counties']}, # TODO: County data is missing atm
             )
             rows.append(record)
             out.append(record)
@@ -224,8 +213,6 @@ def string_summary(summary):
         bumped = summary.trailing_candidate_partition
         bumped_name = summary.trailing_candidate_name
     bumped -= 0.50
-
-    lead_part = summary.leading_candidate_partition - 50
 
     visible_hurdle = (
         f"{summary.trailing_candidate_name} needs {summary.hurdle:.2%}"
