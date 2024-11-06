@@ -4,7 +4,7 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Wed, 06 Nov 2024 06:48:52 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 Nov 2024 06:54:30 -0000</lastBuildDate>
   <item>
    <description>Arizona: Donald Trump +19167</description>
    <pubDate>Wed, 06 Nov 2024 06:48:52 -0000</pubDate>
@@ -16,14 +16,14 @@
    <guid isPermaLink="false">georgia@1730875732.841</guid>
   </item>
   <item>
-   <description>Michigan: Donald Trump +244803</description>
-   <pubDate>Wed, 06 Nov 2024 06:48:52 -0000</pubDate>
-   <guid isPermaLink="false">michigan@1730875732.841</guid>
+   <description>Michigan: Donald Trump +251735</description>
+   <pubDate>Wed, 06 Nov 2024 06:54:30 -0000</pubDate>
+   <guid isPermaLink="false">michigan@1730876070.011</guid>
   </item>
   <item>
-   <description>Nevada: Donald Trump +42637</description>
-   <pubDate>Wed, 06 Nov 2024 06:48:52 -0000</pubDate>
-   <guid isPermaLink="false">nevada@1730875732.841</guid>
+   <description>Nevada: Donald Trump +43383</description>
+   <pubDate>Wed, 06 Nov 2024 06:54:30 -0000</pubDate>
+   <guid isPermaLink="false">nevada@1730876070.011</guid>
   </item>
   <item>
    <description>North Carolina: Donald Trump +176571</description>
@@ -32,13 +32,13 @@
   </item>
   <item>
    <description>Pennsylvania: Donald Trump +198012</description>
-   <pubDate>Wed, 06 Nov 2024 06:48:52 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1730875732.841</guid>
+   <pubDate>Wed, 06 Nov 2024 06:54:30 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1730876070.011</guid>
   </item>
   <item>
-   <description>Wisconsin: Donald Trump +125357</description>
-   <pubDate>Wed, 06 Nov 2024 06:48:52 -0000</pubDate>
-   <guid isPermaLink="false">wisconsin@1730875732.841</guid>
+   <description>Wisconsin: Donald Trump +122910</description>
+   <pubDate>Wed, 06 Nov 2024 06:54:30 -0000</pubDate>
+   <guid isPermaLink="false">wisconsin@1730876070.011</guid>
   </item>
 
  </channel>
