@@ -4,11 +4,11 @@
   <title>NYT 2024 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2024-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Wed, 06 Nov 2024 08:02:13 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 Nov 2024 08:21:20 -0000</lastBuildDate>
   <item>
-   <description>Arizona: Donald Trump +31223</description>
-   <pubDate>Wed, 06 Nov 2024 08:02:13 -0000</pubDate>
-   <guid isPermaLink="false">arizona@1730880133.805</guid>
+   <description>Arizona: Donald Trump +31159</description>
+   <pubDate>Wed, 06 Nov 2024 08:21:20 -0000</pubDate>
+   <guid isPermaLink="false">arizona@1730881280.301</guid>
   </item>
   <item>
    <description>Georgia: Donald Trump +119180</description>
@@ -16,9 +16,9 @@
    <guid isPermaLink="false">georgia@1730878470.984</guid>
   </item>
   <item>
-   <description>Michigan: Donald Trump +305920</description>
-   <pubDate>Wed, 06 Nov 2024 08:02:13 -0000</pubDate>
-   <guid isPermaLink="false">michigan@1730880133.805</guid>
+   <description>Michigan: Donald Trump +313781</description>
+   <pubDate>Wed, 06 Nov 2024 08:21:20 -0000</pubDate>
+   <guid isPermaLink="false">michigan@1730881280.301</guid>
   </item>
   <item>
    <description>Nevada: Donald Trump +54401</description>
@@ -31,14 +31,14 @@
    <guid isPermaLink="false">north-carolina@1730878063.257</guid>
   </item>
   <item>
-   <description>Pennsylvania: Donald Trump +190355</description>
-   <pubDate>Wed, 06 Nov 2024 08:02:13 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1730880133.805</guid>
+   <description>Pennsylvania: Donald Trump +180407</description>
+   <pubDate>Wed, 06 Nov 2024 08:21:20 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1730881280.301</guid>
   </item>
   <item>
-   <description>Wisconsin: Donald Trump +124378</description>
-   <pubDate>Wed, 06 Nov 2024 08:02:13 -0000</pubDate>
-   <guid isPermaLink="false">wisconsin@1730880133.805</guid>
+   <description>Wisconsin: Donald Trump +121928</description>
+   <pubDate>Wed, 06 Nov 2024 08:21:20 -0000</pubDate>
+   <guid isPermaLink="false">wisconsin@1730881280.301</guid>
   </item>
 
  </channel>
