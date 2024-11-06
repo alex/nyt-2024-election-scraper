@@ -4,7 +4,7 @@
   <title>NYT 2024 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2024-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Wed, 06 Nov 2024 15:19:12 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 Nov 2024 15:32:44 -0000</lastBuildDate>
   <item>
    <description>Arizona: Donald Trump +104460</description>
    <pubDate>Wed, 06 Nov 2024 12:41:49 -0000</pubDate>
@@ -36,9 +36,9 @@
    <guid isPermaLink="false">pennsylvania@1730906352.539</guid>
   </item>
   <item>
-   <description>Wisconsin: Donald Trump +31319</description>
-   <pubDate>Wed, 06 Nov 2024 14:00:00 -0000</pubDate>
-   <guid isPermaLink="false">wisconsin@1730901600.42</guid>
+   <description>Wisconsin: Donald Trump +30295</description>
+   <pubDate>Wed, 06 Nov 2024 15:32:44 -0000</pubDate>
+   <guid isPermaLink="false">wisconsin@1730907164.016</guid>
   </item>
 
  </channel>
