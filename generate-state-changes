@@ -582,7 +582,7 @@ def txt_output(path, summarized, states_updated):
                     ],
                     [
                         "Prettier web version:",
-                        "https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html",
+                        "https://alex.github.io/nyt-2024-election-scraper/battleground-state-changes.html",
                     ],
                 ]
             ),
@@ -702,8 +702,8 @@ def rss_output(path, summarized):
             <?xml version="1.0" encoding="UTF-8"?>
             <rss version="2.0">
              <channel>
-              <title>NYT 2020 Election Scraper RSS Feed</title>
-              <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
+              <title>NYT 2024 Election Scraper RSS Feed</title>
+              <link>https://alex.github.io/nyt-2024-election-scraper/battleground-state-changes.html</link>
               <description>Latest results from battleground states.</description>
               <lastBuildDate>{email.utils.formatdate(batch_time.timestamp())}</lastBuildDate>
             """
