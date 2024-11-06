@@ -22,7 +22,7 @@ jobs:
     - name: Set up Python
       run: uv python install
 
-    - name: Generate *-state-changes.*
+    - name: Generate state-changes
       run: |-
         uv run ./generate-state-changes
 
