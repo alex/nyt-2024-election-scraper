@@ -514,7 +514,7 @@
       "certified": false,
       "office_id": "P",
       "max_runoff": null,
-      "updated_at": "2024-11-06T07:08:36.494Z",
+      "updated_at": "2024-11-06T07:27:11.400Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": null,
@@ -722,7 +722,7 @@
             "election_track_id": 5205
           },
           "precincts_reporting": 205,
-          "provider_updated_at": "2024-11-06T07:08:36.494+00:00",
+          "provider_updated_at": "2024-11-06T07:27:11.4+00:00",
           "total_expected_vote": 390000,
           "historical_2020_pres": {
             "votes": 357569,
@@ -1082,7 +1082,7 @@
           "election_track_id": 5205
         },
         "precincts_reporting": 205,
-        "provider_updated_at": "2024-11-06T07:08:36.494+00:00",
+        "provider_updated_at": "2024-11-06T07:27:11.4+00:00",
         "total_expected_vote": 390000,
         "historical_2020_pres": {
           "votes": 357569,
@@ -9597,7 +9597,7 @@
       "certified": false,
       "office_id": "P",
       "max_runoff": null,
-      "updated_at": "2024-11-06T07:23:03.980Z",
+      "updated_at": "2024-11-06T07:27:14.041Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": null,
@@ -9779,8 +9779,8 @@
             "election_track_id": 5205
           },
           "precincts_reporting": 354,
-          "provider_updated_at": "2024-11-06T07:23:03.98+00:00",
-          "total_expected_vote": 864868,
+          "provider_updated_at": "2024-11-06T07:27:14.041+00:00",
+          "total_expected_vote": 864872,
           "historical_2020_pres": {
             "votes": 819374,
             "margin": 9.072,
@@ -10075,8 +10075,8 @@
           "election_track_id": 5205
         },
         "precincts_reporting": 354,
-        "provider_updated_at": "2024-11-06T07:23:03.98+00:00",
-        "total_expected_vote": 864868,
+        "provider_updated_at": "2024-11-06T07:27:14.041+00:00",
+        "total_expected_vote": 864872,
         "historical_2020_pres": {
           "votes": 819374,
           "margin": 9.072,
@@ -10631,7 +10631,7 @@
       "certified": false,
       "office_id": "P",
       "max_runoff": null,
-      "updated_at": "2024-11-06T07:22:54.030Z",
+      "updated_at": "2024-11-06T07:27:17.093Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": "2",
@@ -10813,8 +10813,8 @@
             "election_track_id": 5205
           },
           "precincts_reporting": 249,
-          "provider_updated_at": "2024-11-06T07:22:54.03+00:00",
-          "total_expected_vote": 406619
+          "provider_updated_at": "2024-11-06T07:27:17.093+00:00",
+          "total_expected_vote": 406623
         }
       ],
       "long_description": null,
@@ -11103,8 +11103,8 @@
           "election_track_id": 5205
         },
         "precincts_reporting": 249,
-        "provider_updated_at": "2024-11-06T07:22:54.03+00:00",
-        "total_expected_vote": 406619
+        "provider_updated_at": "2024-11-06T07:27:17.093+00:00",
+        "total_expected_vote": 406623
       },
       "ballot_measure_text": null
     },
@@ -11638,7 +11638,7 @@
       "certified": false,
       "office_id": "P",
       "max_runoff": null,
-      "updated_at": "2024-11-06T07:25:01.812Z",
+      "updated_at": "2024-11-06T07:27:43.257Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": null,
@@ -11655,7 +11655,7 @@
       },
       "reporting_units": [
         {
-          "eevp": 84.9,
+          "eevp": 85.13,
           "name": "Massachusetts",
           "level": "state",
           "nyt_id": "MA-state",
@@ -11665,7 +11665,7 @@
           "candidates": [
             {
               "votes": {
-                "total": 1883806
+                "total": 1887506
               },
               "leader": true,
               "nyt_id": "harris-k",
@@ -11699,7 +11699,7 @@
             },
             {
               "votes": {
-                "total": 1086228
+                "total": 1090421
               },
               "leader": false,
               "nyt_id": "trump-d",
@@ -11733,7 +11733,7 @@
             },
             {
               "votes": {
-                "total": 23431
+                "total": 23473
               },
               "leader": false,
               "nyt_id": "stein-j",
@@ -11742,7 +11742,7 @@
             },
             {
               "votes": {
-                "total": 16060
+                "total": 16090
               },
               "leader": false,
               "nyt_id": "ayyadurai-s",
@@ -11751,7 +11751,7 @@
             },
             {
               "votes": {
-                "total": 15773
+                "total": 15812
               },
               "leader": false,
               "nyt_id": "oliver-c",
@@ -11760,7 +11760,7 @@
             },
             {
               "votes": {
-                "total": 11328
+                "total": 11343
               },
               "leader": false,
               "nyt_id": "de_la_cruz-c",
@@ -11771,7 +11771,7 @@
           "fips_state": "25",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 3036626,
+          "total_votes": 3044645,
           "state_postal": "MA",
           "precincts_total": 2390,
           "nyt_model_estimates": {
@@ -11819,8 +11819,8 @@
             },
             "election_track_id": 5205
           },
-          "precincts_reporting": 2040,
-          "provider_updated_at": "2024-11-06T07:25:01.812+00:00",
+          "precincts_reporting": 2045,
+          "provider_updated_at": "2024-11-06T07:27:43.257+00:00",
           "total_expected_vote": 3576557,
           "historical_2020_pres": {
             "votes": 3615075,
@@ -11951,7 +11951,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 84.9,
+        "eevp": 85.13,
         "name": "Massachusetts",
         "level": "state",
         "nyt_id": "MA-state",
@@ -11961,7 +11961,7 @@
         "candidates": [
           {
             "votes": {
-              "total": 1883806
+              "total": 1887506
             },
             "leader": true,
             "nyt_id": "harris-k",
@@ -11995,7 +11995,7 @@
           },
           {
             "votes": {
-              "total": 1086228
+              "total": 1090421
             },
             "leader": false,
             "nyt_id": "trump-d",
@@ -12029,7 +12029,7 @@
           },
           {
             "votes": {
-              "total": 23431
+              "total": 23473
             },
             "leader": false,
             "nyt_id": "stein-j",
@@ -12038,7 +12038,7 @@
           },
           {
             "votes": {
-              "total": 16060
+              "total": 16090
             },
             "leader": false,
             "nyt_id": "ayyadurai-s",
@@ -12047,7 +12047,7 @@
           },
           {
             "votes": {
-              "total": 15773
+              "total": 15812
             },
             "leader": false,
             "nyt_id": "oliver-c",
@@ -12056,7 +12056,7 @@
           },
           {
             "votes": {
-              "total": 11328
+              "total": 11343
             },
             "leader": false,
             "nyt_id": "de_la_cruz-c",
@@ -12067,7 +12067,7 @@
         "fips_state": "25",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 3036626,
+        "total_votes": 3044645,
         "state_postal": "MA",
         "precincts_total": 2390,
         "nyt_model_estimates": {
@@ -12115,8 +12115,8 @@
           },
           "election_track_id": 5205
         },
-        "precincts_reporting": 2040,
-        "provider_updated_at": "2024-11-06T07:25:01.812+00:00",
+        "precincts_reporting": 2045,
+        "provider_updated_at": "2024-11-06T07:27:43.257+00:00",
         "total_expected_vote": 3576557,
         "historical_2020_pres": {
           "votes": 3615075,
@@ -12762,7 +12762,7 @@
       "certified": false,
       "office_id": "P",
       "max_runoff": null,
-      "updated_at": "2024-11-06T07:25:25.352Z",
+      "updated_at": "2024-11-06T07:27:15.514Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": null,
@@ -12779,7 +12779,7 @@
       },
       "reporting_units": [
         {
-          "eevp": 81.81,
+          "eevp": 81.67,
           "name": "Minnesota",
           "level": "state",
           "nyt_id": "MN-state",
@@ -12971,8 +12971,8 @@
             "election_track_id": 5205
           },
           "precincts_reporting": 3600,
-          "provider_updated_at": "2024-11-06T07:25:25.352+00:00",
-          "total_expected_vote": 3274233,
+          "provider_updated_at": "2024-11-06T07:27:15.514+00:00",
+          "total_expected_vote": 3280067,
           "historical_2020_pres": {
             "votes": 3267206,
             "margin": 7.132,
@@ -13159,7 +13159,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 81.81,
+        "eevp": 81.67,
         "name": "Minnesota",
         "level": "state",
         "nyt_id": "MN-state",
@@ -13351,8 +13351,8 @@
           "election_track_id": 5205
         },
         "precincts_reporting": 3600,
-        "provider_updated_at": "2024-11-06T07:25:25.352+00:00",
-        "total_expected_vote": 3274233,
+        "provider_updated_at": "2024-11-06T07:27:15.514+00:00",
+        "total_expected_vote": 3280067,
         "historical_2020_pres": {
           "votes": 3267206,
           "margin": 7.132,
@@ -14030,7 +14030,7 @@
       "certified": false,
       "office_id": "P",
       "max_runoff": null,
-      "updated_at": "2024-11-06T07:25:35.278Z",
+      "updated_at": "2024-11-06T07:27:24.983Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": null,
@@ -14047,7 +14047,7 @@
       },
       "reporting_units": [
         {
-          "eevp": 97.04,
+          "eevp": 97.05,
           "name": "Missouri",
           "level": "state",
           "nyt_id": "MO-state",
@@ -14194,8 +14194,8 @@
             "election_track_id": 5205
           },
           "precincts_reporting": 3523,
-          "provider_updated_at": "2024-11-06T07:25:35.278+00:00",
-          "total_expected_vote": 2961931,
+          "provider_updated_at": "2024-11-06T07:27:24.983+00:00",
+          "total_expected_vote": 2961566,
           "historical_2020_pres": {
             "votes": 3025157,
             "margin": -15.395,
@@ -14287,7 +14287,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 97.04,
+        "eevp": 97.05,
         "name": "Missouri",
         "level": "state",
         "nyt_id": "MO-state",
@@ -14434,8 +14434,8 @@
           "election_track_id": 5205
         },
         "precincts_reporting": 3523,
-        "provider_updated_at": "2024-11-06T07:25:35.278+00:00",
-        "total_expected_vote": 2961931,
+        "provider_updated_at": "2024-11-06T07:27:24.983+00:00",
+        "total_expected_vote": 2961566,
         "historical_2020_pres": {
           "votes": 3025157,
           "margin": -15.395,
@@ -17832,7 +17832,7 @@
       "certified": false,
       "office_id": "P",
       "max_runoff": null,
-      "updated_at": "2024-11-06T07:26:42.401Z",
+      "updated_at": "2024-11-06T07:26:51.640Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": null,
@@ -18050,7 +18050,7 @@
             "election_track_id": 5205
           },
           "precincts_reporting": 5838,
-          "provider_updated_at": "2024-11-06T07:26:42.401+00:00",
+          "provider_updated_at": "2024-11-06T07:26:51.64+00:00",
           "total_expected_vote": 4364631,
           "historical_2020_pres": {
             "votes": 4549457,
@@ -18439,7 +18439,7 @@
           "election_track_id": 5205
         },
         "precincts_reporting": 5838,
-        "provider_updated_at": "2024-11-06T07:26:42.401+00:00",
+        "provider_updated_at": "2024-11-06T07:26:51.64+00:00",
         "total_expected_vote": 4364631,
         "historical_2020_pres": {
           "votes": 4549457,
@@ -19423,7 +19423,7 @@
       "certified": false,
       "office_id": "P",
       "max_runoff": null,
-      "updated_at": "2024-11-06T07:26:37.183Z",
+      "updated_at": "2024-11-06T07:27:15.577Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": null,
@@ -19440,7 +19440,7 @@
       },
       "reporting_units": [
         {
-          "eevp": 98.8,
+          "eevp": 98.98,
           "name": "North Carolina",
           "level": "state",
           "nyt_id": "NC-state",
@@ -19450,8 +19450,8 @@
           "candidates": [
             {
               "votes": {
-                "total": 2868583,
-                "advance": 2206871
+                "total": 2875538,
+                "advance": 2213255
               },
               "leader": true,
               "nyt_id": "trump-d",
@@ -19485,8 +19485,8 @@
             },
             {
               "votes": {
-                "total": 2680978,
-                "advance": 2176804
+                "total": 2683995,
+                "advance": 2179708
               },
               "leader": false,
               "nyt_id": "harris-k",
@@ -19520,8 +19520,8 @@
             },
             {
               "votes": {
-                "total": 24273,
-                "advance": 15460
+                "total": 24283,
+                "advance": 15469
               },
               "leader": false,
               "nyt_id": "stein-j",
@@ -19530,8 +19530,8 @@
             },
             {
               "votes": {
-                "total": 21748,
-                "advance": 13201
+                "total": 21772,
+                "advance": 13224
               },
               "leader": false,
               "nyt_id": "oliver-c",
@@ -19540,8 +19540,8 @@
             },
             {
               "votes": {
-                "total": 11857,
-                "advance": 7468
+                "total": 11864,
+                "advance": 7475
               },
               "leader": false,
               "nyt_id": "west-c",
@@ -19550,8 +19550,8 @@
             },
             {
               "votes": {
-                "total": 6772,
-                "advance": 4381
+                "total": 6780,
+                "advance": 4388
               },
               "leader": false,
               "nyt_id": "terry-r",
@@ -19562,7 +19562,7 @@
           "fips_state": "37",
           "fips_county": null,
           "fips_suffix": null,
-          "total_votes": 5614211,
+          "total_votes": 5624232,
           "state_postal": "NC",
           "precincts_total": 2658,
           "nyt_model_estimates": {
@@ -19610,8 +19610,8 @@
             },
             "election_track_id": 5205
           },
-          "precincts_reporting": 2656,
-          "provider_updated_at": "2024-11-06T07:26:37.183+00:00",
+          "precincts_reporting": 2658,
+          "provider_updated_at": "2024-11-06T07:27:15.577+00:00",
           "total_expected_vote": 5682113,
           "historical_2020_pres": {
             "votes": 5511487,
@@ -19742,7 +19742,7 @@
       },
       "show_precinct_data": null,
       "top_reporting_unit": {
-        "eevp": 98.8,
+        "eevp": 98.98,
         "name": "North Carolina",
         "level": "state",
         "nyt_id": "NC-state",
@@ -19752,8 +19752,8 @@
         "candidates": [
           {
             "votes": {
-              "total": 2868583,
-              "advance": 2206871
+              "total": 2875538,
+              "advance": 2213255
             },
             "leader": true,
             "nyt_id": "trump-d",
@@ -19787,8 +19787,8 @@
           },
           {
             "votes": {
-              "total": 2680978,
-              "advance": 2176804
+              "total": 2683995,
+              "advance": 2179708
             },
             "leader": false,
             "nyt_id": "harris-k",
@@ -19822,8 +19822,8 @@
           },
           {
             "votes": {
-              "total": 24273,
-              "advance": 15460
+              "total": 24283,
+              "advance": 15469
             },
             "leader": false,
             "nyt_id": "stein-j",
@@ -19832,8 +19832,8 @@
           },
           {
             "votes": {
-              "total": 21748,
-              "advance": 13201
+              "total": 21772,
+              "advance": 13224
             },
             "leader": false,
             "nyt_id": "oliver-c",
@@ -19842,8 +19842,8 @@
           },
           {
             "votes": {
-              "total": 11857,
-              "advance": 7468
+              "total": 11864,
+              "advance": 7475
             },
             "leader": false,
             "nyt_id": "west-c",
@@ -19852,8 +19852,8 @@
           },
           {
             "votes": {
-              "total": 6772,
-              "advance": 4381
+              "total": 6780,
+              "advance": 4388
             },
             "leader": false,
             "nyt_id": "terry-r",
@@ -19864,7 +19864,7 @@
         "fips_state": "37",
         "fips_county": null,
         "fips_suffix": null,
-        "total_votes": 5614211,
+        "total_votes": 5624232,
         "state_postal": "NC",
         "precincts_total": 2658,
         "nyt_model_estimates": {
@@ -19912,8 +19912,8 @@
           },
           "election_track_id": 5205
         },
-        "precincts_reporting": 2656,
-        "provider_updated_at": "2024-11-06T07:26:37.183+00:00",
+        "precincts_reporting": 2658,
+        "provider_updated_at": "2024-11-06T07:27:15.577+00:00",
         "total_expected_vote": 5682113,
         "historical_2020_pres": {
           "votes": 5511487,
@@ -24574,7 +24574,7 @@
       "certified": false,
       "office_id": "P",
       "max_runoff": null,
-      "updated_at": "2024-11-06T07:26:37.533Z",
+      "updated_at": "2024-11-06T07:26:50.200Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": null,
@@ -24742,7 +24742,7 @@
             "election_track_id": 5205
           },
           "precincts_reporting": 9365,
-          "provider_updated_at": "2024-11-06T07:26:37.533+00:00",
+          "provider_updated_at": "2024-11-06T07:26:50.2+00:00",
           "total_expected_vote": 11500000,
           "historical_2020_pres": {
             "votes": 11309112,
@@ -24986,7 +24986,7 @@
           "election_track_id": 5205
         },
         "precincts_reporting": 9365,
-        "provider_updated_at": "2024-11-06T07:26:37.533+00:00",
+        "provider_updated_at": "2024-11-06T07:26:50.2+00:00",
         "total_expected_vote": 11500000,
         "historical_2020_pres": {
           "votes": 11309112,
@@ -26188,7 +26188,7 @@
       "certified": false,
       "office_id": "P",
       "max_runoff": null,
-      "updated_at": "2024-11-06T07:26:30.902Z",
+      "updated_at": "2024-11-06T07:26:41.127Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": null,
@@ -26376,7 +26376,7 @@
             "election_track_id": 5205
           },
           "precincts_reporting": 2498,
-          "provider_updated_at": "2024-11-06T07:26:30.902+00:00",
+          "provider_updated_at": "2024-11-06T07:26:41.127+00:00",
           "total_expected_vote": 4383579,
           "historical_2020_pres": {
             "votes": 4440759,
@@ -26678,7 +26678,7 @@
           "election_track_id": 5205
         },
         "precincts_reporting": 2498,
-        "provider_updated_at": "2024-11-06T07:26:30.902+00:00",
+        "provider_updated_at": "2024-11-06T07:26:41.127+00:00",
         "total_expected_vote": 4383579,
         "historical_2020_pres": {
           "votes": 4440759,
@@ -28336,7 +28336,7 @@
       "certified": false,
       "office_id": "P",
       "max_runoff": null,
-      "updated_at": "2024-11-06T07:25:44.937Z",
+      "updated_at": "2024-11-06T07:27:31.507Z",
       "max_winners": 1,
       "rcv_nyt_ids": null,
       "seat_number": null,
@@ -28536,7 +28536,7 @@
             "election_track_id": 5205
           },
           "precincts_reporting": 2624,
-          "provider_updated_at": "2024-11-06T07:25:44.937+00:00",
+          "provider_updated_at": "2024-11-06T07:27:31.507+00:00",
           "total_expected_vote": 3418121,
           "historical_2020_pres": {
             "votes": 3289946,
@@ -28888,7 +28888,7 @@
           "election_track_id": 5205
         },
         "precincts_reporting": 2624,
-        "provider_updated_at": "2024-11-06T07:25:44.937+00:00",
+        "provider_updated_at": "2024-11-06T07:27:31.507+00:00",
         "total_expected_vote": 3418121,
         "historical_2020_pres": {
           "votes": 3289946,
@@ -31583,7 +31583,7 @@
   },
   "resultsMeta": {
     "docsUpdatedAt": "2024-11-06T05:15:08.956Z",
-    "resultsUpdatedAt": "2024-11-06T07:26:42.401Z"
+    "resultsUpdatedAt": "2024-11-06T07:27:43.257Z"
   },
   "partyControlData": {
     "count": 1,
@@ -31593,7 +31593,7 @@
         "offices": {
           "P": {
             "total": 538,
-            "votes": 132946242,
+            "votes": 132964362,
             "office": "President",
             "to_win": {
               "DEM": 270,
@@ -31608,7 +31608,7 @@
               "DEM": {
                 "party": "Democrat",
                 "seats": 214,
-                "votes": 62970757,
+                "votes": 62975278,
                 "winner": false,
                 "party_id": "DEM",
                 "flip_count": 0,
@@ -31629,7 +31629,7 @@
               "GOP": {
                 "party": "Republican",
                 "seats": 248,
-                "votes": 68051042,
+                "votes": 68064333,
                 "winner": false,
                 "party_id": "GOP",
                 "flip_count": 0,
@@ -47865,6 +47865,6 @@
       }
     ],
     "updated_at": "2024-11-06T06:59:10.328Z",
-    "returned_at": "2024-11-06T07:26:52.128Z"
+    "returned_at": "2024-11-06T07:27:50.812Z"
   }
 }
