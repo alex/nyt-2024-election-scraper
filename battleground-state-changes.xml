@@ -4,11 +4,11 @@
   <title>NYT 2024 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2024-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Wed, 06 Nov 2024 12:22:28 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 Nov 2024 12:41:49 -0000</lastBuildDate>
   <item>
-   <description>Arizona: Donald Trump +104972</description>
-   <pubDate>Wed, 06 Nov 2024 11:45:50 -0000</pubDate>
-   <guid isPermaLink="false">arizona@1730893550.175</guid>
+   <description>Arizona: Donald Trump +104460</description>
+   <pubDate>Wed, 06 Nov 2024 12:41:49 -0000</pubDate>
+   <guid isPermaLink="false">arizona@1730896909.148</guid>
   </item>
   <item>
    <description>Georgia: Donald Trump +117385</description>
@@ -16,9 +16,9 @@
    <guid isPermaLink="false">georgia@1730887276.651</guid>
   </item>
   <item>
-   <description>Michigan: Donald Trump +100045</description>
-   <pubDate>Wed, 06 Nov 2024 12:22:28 -0000</pubDate>
-   <guid isPermaLink="false">michigan@1730895748.112</guid>
+   <description>Michigan: Donald Trump +91422</description>
+   <pubDate>Wed, 06 Nov 2024 12:41:49 -0000</pubDate>
+   <guid isPermaLink="false">michigan@1730896909.148</guid>
   </item>
   <item>
    <description>Nevada: Donald Trump +59862</description>
@@ -31,9 +31,9 @@
    <guid isPermaLink="false">north-carolina@1730878063.257</guid>
   </item>
   <item>
-   <description>Pennsylvania: Donald Trump +170601</description>
-   <pubDate>Wed, 06 Nov 2024 11:01:12 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1730890872.807</guid>
+   <description>Pennsylvania: Donald Trump +165960</description>
+   <pubDate>Wed, 06 Nov 2024 12:41:49 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1730896909.148</guid>
   </item>
   <item>
    <description>Wisconsin: Donald Trump +32700</description>
