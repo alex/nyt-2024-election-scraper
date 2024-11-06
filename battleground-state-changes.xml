@@ -4,11 +4,11 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Wed, 06 Nov 2024 07:18:21 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 Nov 2024 07:26:42 -0000</lastBuildDate>
   <item>
-   <description>Arizona: Donald Trump +27983</description>
-   <pubDate>Wed, 06 Nov 2024 07:18:21 -0000</pubDate>
-   <guid isPermaLink="false">arizona@1730877501.055</guid>
+   <description>Arizona: Donald Trump +28096</description>
+   <pubDate>Wed, 06 Nov 2024 07:26:42 -0000</pubDate>
+   <guid isPermaLink="false">arizona@1730878002.401</guid>
   </item>
   <item>
    <description>Georgia: Donald Trump +115840</description>
@@ -16,14 +16,14 @@
    <guid isPermaLink="false">georgia@1730877501.055</guid>
   </item>
   <item>
-   <description>Michigan: Donald Trump +274666</description>
-   <pubDate>Wed, 06 Nov 2024 07:18:21 -0000</pubDate>
-   <guid isPermaLink="false">michigan@1730877501.055</guid>
+   <description>Michigan: Donald Trump +289117</description>
+   <pubDate>Wed, 06 Nov 2024 07:26:42 -0000</pubDate>
+   <guid isPermaLink="false">michigan@1730878002.401</guid>
   </item>
   <item>
-   <description>Nevada: Donald Trump +50059</description>
-   <pubDate>Wed, 06 Nov 2024 07:08:45 -0000</pubDate>
-   <guid isPermaLink="false">nevada@1730876925.106</guid>
+   <description>Nevada: Donald Trump +53691</description>
+   <pubDate>Wed, 06 Nov 2024 07:26:42 -0000</pubDate>
+   <guid isPermaLink="false">nevada@1730878002.401</guid>
   </item>
   <item>
    <description>North Carolina: Donald Trump +187605</description>
@@ -36,9 +36,9 @@
    <guid isPermaLink="false">pennsylvania@1730876829.39</guid>
   </item>
   <item>
-   <description>Wisconsin: Donald Trump +123700</description>
-   <pubDate>Wed, 06 Nov 2024 07:18:21 -0000</pubDate>
-   <guid isPermaLink="false">wisconsin@1730877501.055</guid>
+   <description>Wisconsin: Donald Trump +122995</description>
+   <pubDate>Wed, 06 Nov 2024 07:26:42 -0000</pubDate>
+   <guid isPermaLink="false">wisconsin@1730878002.401</guid>
   </item>
 
  </channel>
