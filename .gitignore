@@ -165,5 +165,8 @@ cython_debug/
 # Project Ignores
 #
 
+# setup-uv action
+*.tar.gz
+
 # Ignore our parsed cache
 _cache/
