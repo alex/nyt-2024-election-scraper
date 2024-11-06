@@ -4,21 +4,21 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Wed, 06 Nov 2024 07:08:45 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 Nov 2024 07:18:21 -0000</lastBuildDate>
   <item>
-   <description>Arizona: Donald Trump +19167</description>
-   <pubDate>Wed, 06 Nov 2024 06:48:52 -0000</pubDate>
-   <guid isPermaLink="false">arizona@1730875732.841</guid>
+   <description>Arizona: Donald Trump +27983</description>
+   <pubDate>Wed, 06 Nov 2024 07:18:21 -0000</pubDate>
+   <guid isPermaLink="false">arizona@1730877501.055</guid>
   </item>
   <item>
-   <description>Georgia: Donald Trump +116747</description>
-   <pubDate>Wed, 06 Nov 2024 07:08:45 -0000</pubDate>
-   <guid isPermaLink="false">georgia@1730876925.106</guid>
+   <description>Georgia: Donald Trump +115840</description>
+   <pubDate>Wed, 06 Nov 2024 07:18:21 -0000</pubDate>
+   <guid isPermaLink="false">georgia@1730877501.055</guid>
   </item>
   <item>
-   <description>Michigan: Donald Trump +271461</description>
-   <pubDate>Wed, 06 Nov 2024 07:07:09 -0000</pubDate>
-   <guid isPermaLink="false">michigan@1730876829.39</guid>
+   <description>Michigan: Donald Trump +274666</description>
+   <pubDate>Wed, 06 Nov 2024 07:18:21 -0000</pubDate>
+   <guid isPermaLink="false">michigan@1730877501.055</guid>
   </item>
   <item>
    <description>Nevada: Donald Trump +50059</description>
@@ -26,9 +26,9 @@
    <guid isPermaLink="false">nevada@1730876925.106</guid>
   </item>
   <item>
-   <description>North Carolina: Donald Trump +176571</description>
-   <pubDate>Wed, 06 Nov 2024 06:58:50 -0000</pubDate>
-   <guid isPermaLink="false">north-carolina@1730876330.328</guid>
+   <description>North Carolina: Donald Trump +187605</description>
+   <pubDate>Wed, 06 Nov 2024 07:18:21 -0000</pubDate>
+   <guid isPermaLink="false">north-carolina@1730877501.055</guid>
   </item>
   <item>
    <description>Pennsylvania: Donald Trump +193937</description>
@@ -36,9 +36,9 @@
    <guid isPermaLink="false">pennsylvania@1730876829.39</guid>
   </item>
   <item>
-   <description>Wisconsin: Donald Trump +122890</description>
-   <pubDate>Wed, 06 Nov 2024 07:08:45 -0000</pubDate>
-   <guid isPermaLink="false">wisconsin@1730876925.106</guid>
+   <description>Wisconsin: Donald Trump +123700</description>
+   <pubDate>Wed, 06 Nov 2024 07:18:21 -0000</pubDate>
+   <guid isPermaLink="false">wisconsin@1730877501.055</guid>
   </item>
 
  </channel>
