@@ -1,6 +1,6 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2024-11-06 14:33 UTC
-Latest batch received:  2024-11-06 14:33 UTC
+Last updated:           2024-11-06 14:46 UTC
+Latest batch received:  2024-11-06 14:45 UTC
 Prettier web version:   https://alex.github.io/nyt-2024-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
@@ -55,8 +55,9 @@ Georgia Total Votes: (Donald Trump: 2,651,206, Kamala Harris: 2,533,821)
 2024-11-06 04:24  ---  Donald Trump up 136,645  Left (est.): 395,492  Δ:       0 (n/a)                   52.39% precincts   Kamala Harris needs 67.40%  & trends  n/a
 ----------------  ---  -----------------------  --------------------  ---------------------------------  -----------------  --------------------------  ----------------
 
-Michigan Total Votes: (Donald Trump: 2,758,682, Kamala Harris: 2,665,659)
+Michigan Total Votes: (Donald Trump: 2,759,569, Kamala Harris: 2,666,212)
 ----------------  ---  -----------------------  ----------------------  ---------------------------------  ----------------  --------------------------  ----------------
+2024-11-06 14:45  ***  Donald Trump up 93,357   Left (est.): 173,222    Δ:   1,440 (Donald Trump +11.6%)   89.27% precincts  Kamala Harris needs 77.45%  & trends  70.86%
 2024-11-06 14:33  ***  Donald Trump up 93,023   Left (est.): 174,685    Δ:   2,387 (Donald Trump +27.7%)   89.27% precincts  Kamala Harris needs 77.12%  & trends  72.68%
 2024-11-06 13:44  ---  Donald Trump up 91,702   Left (est.): 177,084    Δ:     802 (Donald Trump +17.5%)   89.16% precincts  Kamala Harris needs 76.38%  & trends  76.96%
 2024-11-06 12:41  ---  Donald Trump up 91,422   Left (est.): 177,895    Δ:  12,705 (Kamala Harris +33.9%)  89.16% precincts  Kamala Harris needs 76.18%  & trends  78.13%

@@ -1,6 +1,6 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2024-11-06 14:33 UTC
-Latest batch received:  2024-11-06 14:33 UTC
+Last updated:           2024-11-06 14:46 UTC
+Latest batch received:  2024-11-06 14:45 UTC
 Prettier web version:   https://alex.github.io/nyt-2024-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
@@ -345,24 +345,25 @@ Illinois Total Votes: (Kamala Harris: 2,770,451, Donald Trump: 2,351,499)
 2024-11-06 04:24  ---  Kamala Harris up 413,197  Left (est.): 746,431  Δ:       0 (n/a)                   85.39% precincts  Donald Trump needs 78.08%   & trends  n/a
 ----------------  ---  ------------------------  --------------------  ---------------------------------  ----------------  --------------------------  ----------------
 
-Indiana Total Votes: (Donald Trump: 1,611,384, Kamala Harris: 1,069,140)
+Indiana Total Votes: (Donald Trump: 1,668,606, Kamala Harris: 1,114,104)
 ----------------  ---  -----------------------  --------------------  ---------------------------------  ----------------  ---------------------------  ----------------
-2024-11-06 09:20  ---  Donald Trump up 542,244  Left (est.): 318,635  Δ:       0 (n/a)                   89.54% precincts  Kamala Harris needs 136.58%  & trends  29.69%
-2024-11-06 08:34  ---  Donald Trump up 542,244  Left (est.): 318,635  Δ:       0 (n/a)                   89.50% precincts  Kamala Harris needs 136.58%  & trends  29.69%
-2024-11-06 08:21  ---  Donald Trump up 542,244  Left (est.): 318,635  Δ:  11,641 (Donald Trump +26.8%)   89.11% precincts  Kamala Harris needs 136.58%  & trends  29.69%
-2024-11-06 07:18  ---  Donald Trump up 536,009  Left (est.): 330,404  Δ:  23,515 (Donald Trump +16.2%)   88.81% precincts  Kamala Harris needs 132.54%  & trends  33.33%
-2024-11-06 07:07  ---  Donald Trump up 528,390  Left (est.): 354,352  Δ:       0 (n/a)                   88.03% precincts  Kamala Harris needs 125.87%  & trends  26.23%
-2024-11-06 06:33  ---  Donald Trump up 528,390  Left (est.): 354,352  Δ:       0 (n/a)                   87.99% precincts  Kamala Harris needs 125.87%  & trends  26.23%
-2024-11-06 06:09  ---  Donald Trump up 528,390  Left (est.): 354,352  Δ:       0 (n/a)                   87.97% precincts  Kamala Harris needs 125.87%  & trends  26.23%
-2024-11-06 05:57  ---  Donald Trump up 528,390  Left (est.): 354,352  Δ:     877 (Kamala Harris +15.3%)  87.95% precincts  Kamala Harris needs 125.87%  & trends  26.23%
+2024-11-06 14:45  ***  Donald Trump up 554,502  Left (est.): 214,894  Δ: 102,186 (Donald Trump + 6.0%)   92.94% precincts  Kamala Harris needs 181.27%  & trends  44.00%
+2024-11-06 09:20  ---  Donald Trump up 542,244  Left (est.): 318,635  Δ:       0 (n/a)                   89.54% precincts  Kamala Harris needs 136.57%  & trends  29.69%
+2024-11-06 08:34  ---  Donald Trump up 542,244  Left (est.): 318,635  Δ:       0 (n/a)                   89.50% precincts  Kamala Harris needs 136.57%  & trends  29.69%
+2024-11-06 08:21  ---  Donald Trump up 542,244  Left (est.): 318,635  Δ:  11,641 (Donald Trump +26.8%)   89.11% precincts  Kamala Harris needs 136.57%  & trends  29.69%
+2024-11-06 07:18  ---  Donald Trump up 536,009  Left (est.): 330,404  Δ:  23,515 (Donald Trump +16.2%)   88.81% precincts  Kamala Harris needs 132.53%  & trends  33.33%
+2024-11-06 07:07  ---  Donald Trump up 528,390  Left (est.): 354,352  Δ:       0 (n/a)                   88.03% precincts  Kamala Harris needs 125.86%  & trends  26.23%
+2024-11-06 06:33  ---  Donald Trump up 528,390  Left (est.): 354,352  Δ:       0 (n/a)                   87.99% precincts  Kamala Harris needs 125.86%  & trends  26.23%
+2024-11-06 06:09  ---  Donald Trump up 528,390  Left (est.): 354,352  Δ:       0 (n/a)                   87.97% precincts  Kamala Harris needs 125.86%  & trends  26.23%
+2024-11-06 05:57  ---  Donald Trump up 528,390  Left (est.): 354,352  Δ:     877 (Kamala Harris +15.3%)  87.95% precincts  Kamala Harris needs 125.86%  & trends  26.23%
 2024-11-06 05:39  ---  Donald Trump up 528,659  Left (est.): 355,249  Δ:     110 (Kamala Harris + 6.4%)  87.93% precincts  Kamala Harris needs 125.71%  & trends  25.00%
-2024-11-06 05:34  ---  Donald Trump up 528,673  Left (est.): 355,363  Δ:       0 (n/a)                   87.93% precincts  Kamala Harris needs 125.69%  & trends  24.88%
-2024-11-06 05:06  ---  Donald Trump up 528,673  Left (est.): 355,363  Δ:  20,224 (Donald Trump +24.3%)   87.91% precincts  Kamala Harris needs 125.69%  & trends  24.88%
-2024-11-06 04:58  ---  Donald Trump up 518,861  Left (est.): 375,937  Δ:  22,729 (Donald Trump +26.9%)   87.25% precincts  Kamala Harris needs 120.22%  & trends  26.63%
-2024-11-06 04:53  ---  Donald Trump up 506,628  Left (est.): 399,032  Δ:  20,773 (Donald Trump +12.3%)   86.49% precincts  Kamala Harris needs 114.60%  & trends  41.87%
+2024-11-06 05:34  ---  Donald Trump up 528,673  Left (est.): 355,363  Δ:       0 (n/a)                   87.93% precincts  Kamala Harris needs 125.68%  & trends  24.88%
+2024-11-06 05:06  ---  Donald Trump up 528,673  Left (est.): 355,363  Δ:  20,224 (Donald Trump +24.3%)   87.91% precincts  Kamala Harris needs 125.68%  & trends  24.88%
+2024-11-06 04:58  ---  Donald Trump up 518,861  Left (est.): 375,937  Δ:  22,729 (Donald Trump +26.9%)   87.25% precincts  Kamala Harris needs 120.21%  & trends  26.63%
+2024-11-06 04:53  ---  Donald Trump up 506,628  Left (est.): 399,032  Δ:  20,773 (Donald Trump +12.3%)   86.49% precincts  Kamala Harris needs 114.59%  & trends  41.87%
 2024-11-06 04:40  ---  Donald Trump up 501,525  Left (est.): 420,147  Δ:   5,665 (Donald Trump + 3.9%)   85.80% precincts  Kamala Harris needs 110.73%  & trends  53.90%
-2024-11-06 04:32  ---  Donald Trump up 501,086  Left (est.): 425,923  Δ:   8,108 (Kamala Harris + 9.3%)  83.06% precincts  Kamala Harris needs 109.86%  & trends  59.32%
-2024-11-06 04:24  ---  Donald Trump up 502,598  Left (est.): 434,176  Δ:       0 (n/a)                   82.73% precincts  Kamala Harris needs 108.90%  & trends  n/a
+2024-11-06 04:32  ---  Donald Trump up 501,086  Left (est.): 425,923  Δ:   8,108 (Kamala Harris + 9.3%)  83.06% precincts  Kamala Harris needs 109.85%  & trends  59.32%
+2024-11-06 04:24  ---  Donald Trump up 502,598  Left (est.): 434,176  Δ:       0 (n/a)                   82.73% precincts  Kamala Harris needs 108.89%  & trends  n/a
 ----------------  ---  -----------------------  --------------------  ---------------------------------  ----------------  ---------------------------  ----------------
 
 Iowa Total Votes: (Donald Trump: 916,211, Kamala Harris: 700,248)
@@ -433,8 +434,11 @@ Louisiana Total Votes: (Donald Trump: 1,208,233, Kamala Harris: 766,405)
 2024-11-06 04:24  ---  Donald Trump up 468,122  Left (est.): 191,471  Δ:       0 (n/a)                   98.74% precincts   Kamala Harris needs 174.20%   & trends  n/a
 ----------------  ---  -----------------------  --------------------  ---------------------------------  -----------------  ----------------------------  ----------------
 
-Maine Total Votes: (Donald Trump: 156,048, Kamala Harris: 134,065)
+Maine Total Votes: (Donald Trump: 156,520, Kamala Harris: 134,353)
 ----------------  ---  -----------------------  --------------------  ----------------------------------  ----------------  ---------------------------  ------------------
+2024-11-06 14:45  ***  Donald Trump up 22,167   Left (est.): 103,042  Δ: Unknown (Kamala Harris +382.7%)  66.27% precincts  Kamala Harris needs 61.00%   & trends  -93.77%
+2024-11-06 14:45  ***  Kamala Harris up 74,540  Left (est.): 87,559   Δ: Unknown (Donald Trump + 3.4%)    70.78% precincts  Donald Trump needs 93.52%    & trends  -117.67%
+2024-11-06 14:45  ***  Kamala Harris up 54,303  Unknown               Δ: 311,470 (Kamala Harris +12.2%)   67.65% precincts  Unknown                      & trends  37.75%
 2024-11-06 14:33  ***  Donald Trump up 21,983   Left (est.): 103,813  Δ: Unknown (Kamala Harris +360.3%)  65.80% precincts  Kamala Harris needs 60.83%   & trends  -93.11%
 2024-11-06 14:33  ***  Kamala Harris up 74,540  Left (est.): 87,559   Δ: Unknown (Donald Trump + 3.4%)    70.78% precincts  Donald Trump needs 93.52%    & trends  -117.38%
 2024-11-06 14:33  ***  Kamala Harris up 54,487  Unknown               Δ: 313,587 (Kamala Harris +12.3%)   67.30% precincts  Unknown                      & trends  37.72%
@@ -537,7 +541,7 @@ Maine Total Votes: (Donald Trump: 156,048, Kamala Harris: 134,065)
 2024-11-06 07:07  ---  Donald Trump up 23,509   Left (est.): 146,995  Δ: Unknown (Kamala Harris +164.9%)  57.96% precincts  Kamala Harris needs 58.18%   & trends  -81.83%
 2024-11-06 07:07  ---  Kamala Harris up 69,677  Left (est.): 115,515  Δ: Unknown (Donald Trump + 4.2%)    65.58% precincts  Donald Trump needs 80.84%    & trends  -100.86%
 2024-11-06 07:07  ---  Kamala Harris up 48,098  Unknown               Δ: 297,682 (Kamala Harris +12.1%)   60.17% precincts  Unknown                      & trends  37.91%
-2024-11-06 06:58  ---  Donald Trump up 23,890   Left (est.): 161,660  Δ: Unknown (Kamala Harris +109.8%)  55.82% precincts  Kamala Harris needs 57.56%   & trends  -75.78%
+2024-11-06 06:58  ---  Donald Trump up 23,890   Left (est.): 161,660  Δ: Unknown (Kamala Harris +109.8%)  55.82% precincts  Kamala Harris needs 57.55%   & trends  -75.78%
 2024-11-06 06:58  ---  Kamala Harris up 69,677  Left (est.): 115,515  Δ: Unknown (Donald Trump + 4.6%)    65.58% precincts  Donald Trump needs 80.84%    & trends  -99.06%
 2024-11-06 06:58  ---  Kamala Harris up 47,717  Unknown               Δ: 285,325 (Kamala Harris +12.5%)   58.61% precincts  Unknown                      & trends  37.54%
 2024-11-06 06:54  ---  Donald Trump up 23,406   Left (est.): 163,708  Δ: Unknown (Kamala Harris +104.3%)  55.34% precincts  Kamala Harris needs 57.31%   & trends  -73.87%
@@ -578,7 +582,7 @@ Maine Total Votes: (Donald Trump: 156,048, Kamala Harris: 134,065)
 2024-11-06 05:52  ---  Kamala Harris up 31,439  Unknown               Δ: 215,365 (Kamala Harris +12.1%)   49.91% precincts  Unknown                      & trends  37.86%
 2024-11-06 05:47  ---  Donald Trump up 20,834   Left (est.): 211,085  Δ: Unknown (Kamala Harris +314.8%)  46.79% precincts  Kamala Harris needs 55.05%   & trends  -51.80%
 2024-11-06 05:47  ---  Kamala Harris up 50,895  Left (est.): 198,294  Δ: Unknown (Donald Trump + 4.9%)    53.25% precincts  Donald Trump needs 63.12%    & trends  39.81%
-2024-11-06 05:47  ---  Kamala Harris up 31,991  Left (est.): 1,425    Δ: 204,327 (Kamala Harris +12.9%)   48.70% precincts  Donald Trump needs 1197.73%  & trends  37.14%
+2024-11-06 05:47  ---  Kamala Harris up 31,991  Left (est.): 1,425    Δ: 204,327 (Kamala Harris +12.9%)   48.70% precincts  Donald Trump needs 1197.71%  & trends  37.14%
 2024-11-06 05:41  ---  Donald Trump up 20,568   Left (est.): 211,600  Δ:   2,896 (Donald Trump +1198.8%)  46.08% precincts  Kamala Harris needs 54.97%   & trends  -53.58%
 2024-11-06 05:41  ---  Kamala Harris up 48,866  Left (est.): 213,375  Δ: Unknown (Donald Trump + 4.9%)    50.65% precincts  Donald Trump needs 61.71%    & trends  36.97%
 2024-11-06 05:41  ---  Kamala Harris up 30,228  Left (est.): 17,021   Δ: 189,018 (Kamala Harris +13.4%)   47.48% precincts  Donald Trump needs 140.79%   & trends  36.56%
@@ -636,35 +640,36 @@ Maryland Total Votes: (Kamala Harris: 1,485,253, Donald Trump: 920,393)
 2024-11-06 04:24  ---  Kamala Harris up 530,388  Left (est.): 737,139  Δ:       0 (n/a)                   92.95% precincts  Donald Trump needs 86.92%  & trends  n/a
 ----------------  ---  ------------------------  --------------------  ---------------------------------  ----------------  -------------------------  ----------------
 
-Massachusetts Total Votes: (Kamala Harris: 1,952,640, Donald Trump: 1,140,404)
+Massachusetts Total Votes: (Kamala Harris: 1,958,930, Donald Trump: 1,140,404)
 ----------------  ---  ------------------------  ----------------------  ---------------------------------  ----------------  --------------------------  ----------------
-2024-11-06 14:33  ***  Kamala Harris up 812,236  Left (est.): 307,121    Δ:   9,130 (Kamala Harris + 6.5%)  87.95% precincts  Donald Trump needs 185.18%  & trends  44.64%
+2024-11-06 14:45  ***  Kamala Harris up 818,526  Left (est.): 300,831    Δ:   6,290 (Kamala Harris +50.0%)  87.95% precincts  Donald Trump needs 189.07%  & trends  34.95%
+2024-11-06 14:33  ***  Kamala Harris up 812,236  Left (est.): 307,121    Δ:   9,130 (Kamala Harris + 6.5%)  87.95% precincts  Donald Trump needs 185.17%  & trends  44.64%
 2024-11-06 14:19  ***  Kamala Harris up 811,058  Left (est.): 316,404    Δ:   5,317 (Kamala Harris + 8.1%)  87.70% precincts  Donald Trump needs 181.02%  & trends  45.45%
 2024-11-06 14:00  ---  Kamala Harris up 810,195  Left (est.): 321,815    Δ:  38,201 (Kamala Harris + 3.8%)  87.62% precincts  Donald Trump needs 178.68%  & trends  46.21%
 2024-11-06 09:00  ---  Kamala Harris up 807,302  Left (est.): 360,690    Δ:   3,196 (Kamala Harris +29.7%)  87.41% precincts  Donald Trump needs 164.40%  & trends  38.57%
 2024-11-06 08:47  ---  Kamala Harris up 805,406  Left (est.): 363,957    Δ:   2,885 (Kamala Harris + 3.5%)  87.36% precincts  Donald Trump needs 163.11%  & trends  40.77%
-2024-11-06 08:34  ---  Kamala Harris up 805,205  Left (est.): 366,892    Δ:  10,822 (Kamala Harris +11.1%)  87.32% precincts  Donald Trump needs 162.18%  & trends  40.24%
-2024-11-06 08:21  ---  Kamala Harris up 802,801  Left (est.): 377,965    Δ:  38,659 (Kamala Harris + 9.0%)  87.11% precincts  Donald Trump needs 158.57%  & trends  41.00%
-2024-11-06 08:02  ---  Kamala Harris up 795,842  Left (est.): 417,402    Δ:   6,907 (Donald Trump + 9.0%)   85.73% precincts  Donald Trump needs 147.46%  & trends  41.74%
+2024-11-06 08:34  ---  Kamala Harris up 805,205  Left (est.): 366,892    Δ:  10,822 (Kamala Harris +11.1%)  87.32% precincts  Donald Trump needs 162.17%  & trends  40.24%
+2024-11-06 08:21  ---  Kamala Harris up 802,801  Left (est.): 377,965    Δ:  38,659 (Kamala Harris + 9.0%)  87.11% precincts  Donald Trump needs 158.56%  & trends  41.00%
+2024-11-06 08:02  ---  Kamala Harris up 795,842  Left (est.): 417,402    Δ:   6,907 (Donald Trump + 9.0%)   85.73% precincts  Donald Trump needs 147.45%  & trends  41.74%
 2024-11-06 07:27  ---  Kamala Harris up 797,085  Left (est.): 424,431    Δ:   7,893 (Donald Trump + 3.1%)   85.56% precincts  Donald Trump needs 145.99%  & trends  34.73%
 2024-11-06 07:26  ---  Kamala Harris up 797,578  Left (est.): 432,450    Δ:   3,058 (Kamala Harris +33.9%)  85.36% precincts  Donald Trump needs 144.27%  & trends  26.71%
-2024-11-06 07:18  ---  Kamala Harris up 795,504  Left (est.): 435,593    Δ:  17,036 (Kamala Harris +19.0%)  85.23% precincts  Donald Trump needs 143.35%  & trends  27.37%
+2024-11-06 07:18  ---  Kamala Harris up 795,504  Left (est.): 435,593    Δ:  17,036 (Kamala Harris +19.0%)  85.23% precincts  Donald Trump needs 143.34%  & trends  27.37%
 2024-11-06 07:07  ---  Kamala Harris up 789,022  Left (est.): 453,033    Δ:  18,193 (Kamala Harris +27.4%)  84.77% precincts  Donald Trump needs 139.02%  & trends  28.97%
 2024-11-06 06:58  ---  Kamala Harris up 779,067  Left (est.): 471,593    Δ:  29,983 (Kamala Harris +11.3%)  84.35% precincts  Donald Trump needs 134.44%  & trends  38.73%
 2024-11-06 06:54  ---  Kamala Harris up 772,310  Left (est.): 502,286    Δ:  26,397 (Kamala Harris +15.1%)  83.10% precincts  Donald Trump needs 128.59%  & trends  37.26%
 2024-11-06 06:48  ---  Kamala Harris up 764,339  Left (est.): 529,173    Δ:   4,983 (Donald Trump + 4.5%)   82.22% precincts  Donald Trump needs 123.83%  & trends  39.76%
-2024-11-06 06:42  ---  Kamala Harris up 764,790  Left (est.): 534,212    Δ:  24,804 (Kamala Harris +13.1%)  82.09% precincts  Donald Trump needs 123.18%  & trends  36.18%
+2024-11-06 06:42  ---  Kamala Harris up 764,790  Left (est.): 534,212    Δ:  24,804 (Kamala Harris +13.1%)  82.09% precincts  Donald Trump needs 123.17%  & trends  36.18%
 2024-11-06 06:33  ---  Kamala Harris up 758,268  Left (est.): 559,535    Δ:  17,446 (Kamala Harris +17.0%)  81.51% precincts  Donald Trump needs 119.27%  & trends  33.51%
-2024-11-06 06:19  ---  Kamala Harris up 752,326  Left (est.): 577,418    Δ:  29,925 (Kamala Harris +15.7%)  81.05% precincts  Donald Trump needs 116.60%  & trends  34.21%
+2024-11-06 06:19  ---  Kamala Harris up 752,326  Left (est.): 577,418    Δ:  29,925 (Kamala Harris +15.7%)  81.05% precincts  Donald Trump needs 116.59%  & trends  34.21%
 2024-11-06 06:12  ---  Kamala Harris up 742,901  Left (est.): 608,138    Δ:   4,924 (Kamala Harris +34.3%)  80.29% precincts  Donald Trump needs 112.44%  & trends  31.65%
-2024-11-06 06:11  ---  Kamala Harris up 739,521  Left (est.): 613,277    Δ:  30,998 (Kamala Harris +15.2%)  80.04% precincts  Donald Trump needs 111.64%  & trends  34.79%
+2024-11-06 06:11  ---  Kamala Harris up 739,521  Left (est.): 613,277    Δ:  30,998 (Kamala Harris +15.2%)  80.04% precincts  Donald Trump needs 111.63%  & trends  34.79%
 2024-11-06 06:09  ---  Kamala Harris up 730,091  Left (est.): 645,148    Δ:  55,119 (Kamala Harris +15.4%)  78.74% precincts  Donald Trump needs 107.84%  & trends  34.57%
 2024-11-06 05:58  ---  Kamala Harris up 713,078  Left (est.): 701,210    Δ:     402 (Donald Trump + 4.2%)   77.53% precincts  Donald Trump needs 101.98%  & trends  32.54%
 2024-11-06 05:57  ---  Kamala Harris up 713,112  Left (est.): 701,620    Δ:   3,418 (Kamala Harris + 8.9%)  77.49% precincts  Donald Trump needs 101.95%  & trends  32.23%
 2024-11-06 05:52  ---  Kamala Harris up 712,506  Left (est.): 705,105    Δ:  32,025 (Kamala Harris +18.9%)  77.45% precincts  Donald Trump needs 101.65%  & trends  31.09%
 2024-11-06 05:47  ---  Kamala Harris up 700,393  Left (est.): 737,974    Δ: 116,184 (Kamala Harris +16.4%)  76.53% precincts  Donald Trump needs 98.51%   & trends  33.64%
 2024-11-06 05:39  ---  Kamala Harris up 662,375  Left (est.): 856,713    Δ:     719 (Kamala Harris +21.3%)  73.81% precincts  Donald Trump needs 89.52%   & trends  51.63%
-2024-11-06 05:34  ---  Kamala Harris up 662,068  Left (est.): 857,457    Δ:  65,074 (Donald Trump + 2.2%)   73.77% precincts  Donald Trump needs 89.47%   & trends  52.20%
+2024-11-06 05:34  ---  Kamala Harris up 662,068  Left (est.): 857,457    Δ:  65,074 (Donald Trump + 2.2%)   73.77% precincts  Donald Trump needs 89.46%   & trends  52.20%
 2024-11-06 05:29  ---  Kamala Harris up 664,930  Left (est.): 924,076    Δ:  10,913 (Kamala Harris +11.2%)  71.76% precincts  Donald Trump needs 86.78%   & trends  40.14%
 2024-11-06 05:22  ---  Kamala Harris up 662,479  Left (est.): 935,189    Δ:  77,143 (Kamala Harris + 9.1%)  71.55% precincts  Donald Trump needs 86.21%   & trends  40.93%
 2024-11-06 05:16  ---  Kamala Harris up 648,484  Left (est.): 1,013,887  Δ: 102,153 (Kamala Harris +11.6%)  69.46% precincts  Donald Trump needs 82.69%   & trends  38.38%
@@ -677,8 +682,9 @@ Massachusetts Total Votes: (Kamala Harris: 1,952,640, Donald Trump: 1,140,404)
 2024-11-06 04:24  ---  Kamala Harris up 502,896  Left (est.): 1,523,611  Δ:       0 (n/a)                   53.81% precincts  Donald Trump needs 66.87%   & trends  n/a
 ----------------  ---  ------------------------  ----------------------  ---------------------------------  ----------------  --------------------------  ----------------
 
-Michigan Total Votes: (Donald Trump: 2,758,682, Kamala Harris: 2,665,659)
+Michigan Total Votes: (Donald Trump: 2,759,569, Kamala Harris: 2,666,212)
 ----------------  ---  -----------------------  ----------------------  ---------------------------------  ----------------  --------------------------  ----------------
+2024-11-06 14:45  ***  Donald Trump up 93,357   Left (est.): 173,222    Δ:   1,440 (Donald Trump +11.6%)   89.27% precincts  Kamala Harris needs 77.45%  & trends  70.86%
 2024-11-06 14:33  ***  Donald Trump up 93,023   Left (est.): 174,685    Δ:   2,387 (Donald Trump +27.7%)   89.27% precincts  Kamala Harris needs 77.12%  & trends  72.68%
 2024-11-06 13:44  ---  Donald Trump up 91,702   Left (est.): 177,084    Δ:     802 (Donald Trump +17.5%)   89.16% precincts  Kamala Harris needs 76.38%  & trends  76.96%
 2024-11-06 12:41  ---  Donald Trump up 91,422   Left (est.): 177,895    Δ:  12,705 (Kamala Harris +33.9%)  89.16% precincts  Kamala Harris needs 76.18%  & trends  78.13%
@@ -732,8 +738,9 @@ Michigan Total Votes: (Donald Trump: 2,758,682, Kamala Harris: 2,665,659)
 2024-11-06 04:24  ---  Donald Trump up 123,406  Left (est.): 3,796,038  Δ:       0 (n/a)                   22.39% precincts  Kamala Harris needs 51.66%  & trends  n/a
 ----------------  ---  -----------------------  ----------------------  ---------------------------------  ----------------  --------------------------  ----------------
 
-Minnesota Total Votes: (Kamala Harris: 1,653,522, Donald Trump: 1,512,002)
+Minnesota Total Votes: (Kamala Harris: 1,653,381, Donald Trump: 1,511,662)
 ----------------  ---  ------------------------  ----------------------  ---------------------------------  ----------------  --------------------------  ----------------
+2024-11-06 14:45  ***  Kamala Harris up 141,719  Left (est.): 47,406     Δ: Unknown (Donald Trump +20.7%)   99.03% precincts  Donald Trump needs 202.63%  & trends  55.94%
 2024-11-06 14:00  ---  Kamala Harris up 141,520  Left (est.): 46,912     Δ:   3,135 (Donald Trump +29.1%)   99.03% precincts  Donald Trump needs 204.02%  & trends  56.23%
 2024-11-06 13:44  ---  Kamala Harris up 143,345  Left (est.): 50,269     Δ:     174 (Donald Trump + 7.5%)   99.00% precincts  Donald Trump needs 195.59%  & trends  53.45%
 2024-11-06 10:20  ---  Kamala Harris up 143,371  Left (est.): 50,447     Δ:     874 (Kamala Harris +12.4%)  98.98% precincts  Donald Trump needs 195.10%  & trends  53.42%
@@ -793,31 +800,32 @@ Mississippi Total Votes: (Donald Trump: 655,094, Kamala Harris: 404,063)
 ----------------  ---  -----------------------  --------------------  ---------------------------------  ----------------  ---------------------------  ----------------
 
 Missouri Total Votes: (Donald Trump: 1,739,020, Kamala Harris: 1,190,806)
-----------------  ---  -----------------------  --------------------  --------------------------------  ----------------  -----------------------------  ----------------
-2024-11-06 14:33  ***  Donald Trump up 548,214  Left (est.): 1,974    Δ:       0 (n/a)                  99.92% precincts  Kamala Harris needs 14128.81%  & trends  35.87%
-2024-11-06 12:22  ---  Donald Trump up 548,214  Left (est.): 1,974    Δ:  40,969 (Donald Trump +14.1%)  98.68% precincts  Kamala Harris needs 14128.81%  & trends  35.87%
-2024-11-06 09:33  ---  Donald Trump up 536,633  Left (est.): 43,282   Δ:   8,680 (Donald Trump +23.5%)  98.63% precincts  Kamala Harris needs 678.54%    & trends  30.68%
-2024-11-06 07:34  ---  Donald Trump up 532,555  Left (est.): 52,012   Δ:  45,693 (Donald Trump +17.6%)  98.60% precincts  Kamala Harris needs 569.07%    & trends  32.38%
-2024-11-06 07:07  ---  Donald Trump up 516,456  Left (est.): 98,348   Δ:   9,000 (Donald Trump +29.4%)  98.60% precincts  Kamala Harris needs 316.21%    & trends  24.00%
-2024-11-06 06:48  ---  Donald Trump up 511,172  Left (est.): 107,388  Δ:  20,772 (Donald Trump +24.5%)  98.57% precincts  Kamala Harris needs 291.31%    & trends  23.15%
-2024-11-06 06:42  ---  Donald Trump up 501,004  Left (est.): 128,367  Δ:  18,232 (Donald Trump +32.2%)  97.98% precincts  Kamala Harris needs 247.86%    & trends  23.36%
-2024-11-06 06:33  ---  Donald Trump up 489,262  Left (est.): 146,767  Δ:  64,677 (Donald Trump +18.0%)  97.98% precincts  Kamala Harris needs 219.00%    & trends  31.98%
-2024-11-06 06:19  ---  Donald Trump up 465,953  Left (est.): 212,315  Δ:       0 (n/a)                  96.47% precincts  Kamala Harris needs 161.26%    & trends  20.38%
-2024-11-06 06:09  ---  Donald Trump up 465,953  Left (est.): 212,315  Δ:       0 (n/a)                  96.45% precincts  Kamala Harris needs 161.26%    & trends  20.38%
-2024-11-06 05:58  ---  Donald Trump up 465,953  Left (est.): 212,315  Δ:       0 (n/a)                  84.24% precincts  Kamala Harris needs 161.26%    & trends  20.38%
-2024-11-06 05:57  ---  Donald Trump up 465,953  Left (est.): 212,315  Δ:  17,479 (Donald Trump +30.2%)  83.94% precincts  Kamala Harris needs 161.26%    & trends  20.38%
-2024-11-06 05:41  ---  Donald Trump up 455,382  Left (est.): 229,996  Δ:  39,623 (Donald Trump +28.8%)  83.38% precincts  Kamala Harris needs 150.37%    & trends  21.24%
-2024-11-06 05:34  ---  Donald Trump up 432,593  Left (est.): 270,044  Δ:  43,653 (Donald Trump + 2.8%)  82.31% precincts  Kamala Harris needs 131.21%    & trends  47.22%
-2024-11-06 05:29  ---  Donald Trump up 430,166  Left (est.): 314,723  Δ:  30,444 (Donald Trump +23.6%)  81.16% precincts  Kamala Harris needs 119.29%    & trends  26.35%
-2024-11-06 05:22  ---  Donald Trump up 415,766  Left (est.): 345,525  Δ:   7,765 (Donald Trump +31.0%)  80.44% precincts  Kamala Harris needs 111.00%    & trends  24.50%
-2024-11-06 05:16  ---  Donald Trump up 410,959  Left (est.): 353,347  Δ:  24,551 (Donald Trump +23.6%)  47.97% precincts  Kamala Harris needs 108.96%    & trends  29.14%
-2024-11-06 04:58  ---  Donald Trump up 399,374  Left (est.): 378,205  Δ:  19,569 (Donald Trump + 8.6%)  45.96% precincts  Kamala Harris needs 103.53%    & trends  34.43%
-2024-11-06 04:53  ---  Donald Trump up 396,027  Left (est.): 398,118  Δ:   6,212 (Donald Trump +26.1%)  44.92% precincts  Kamala Harris needs 100.43%    & trends  18.74%
-2024-11-06 04:47  ---  Donald Trump up 392,781  Left (est.): 404,388  Δ:  53,728 (Donald Trump +32.6%)  44.64% precincts  Kamala Harris needs 99.24%     & trends  17.40%
-2024-11-06 04:40  ---  Donald Trump up 357,751  Left (est.): 458,560  Δ: 131,472 (Donald Trump +11.9%)  42.93% precincts  Kamala Harris needs 89.55%     & trends  38.12%
-2024-11-06 04:32  ---  Donald Trump up 326,517  Left (est.): 591,388  Δ:  84,263 (Donald Trump + 1.7%)  42.77% precincts  Kamala Harris needs 77.99%     & trends  48.35%
-2024-11-06 04:24  ---  Donald Trump up 323,732  Left (est.): 677,409  Δ:       0 (n/a)                  42.32% precincts  Kamala Harris needs 74.23%     & trends  n/a
-----------------  ---  -----------------------  --------------------  --------------------------------  ----------------  -----------------------------  ----------------
+----------------  ---  -----------------------  --------------------  --------------------------------  -----------------  -----------------------------  ----------------
+2024-11-06 14:45  ***  Donald Trump up 548,214  Left (est.): 1,974    Δ:       0 (n/a)                  100.00% precincts  Kamala Harris needs 14128.81%  & trends  35.87%
+2024-11-06 14:33  ***  Donald Trump up 548,214  Left (est.): 1,974    Δ:       0 (n/a)                  99.92% precincts   Kamala Harris needs 14128.81%  & trends  35.87%
+2024-11-06 12:22  ---  Donald Trump up 548,214  Left (est.): 1,974    Δ:  40,969 (Donald Trump +14.1%)  98.68% precincts   Kamala Harris needs 14128.81%  & trends  35.87%
+2024-11-06 09:33  ---  Donald Trump up 536,633  Left (est.): 43,282   Δ:   8,680 (Donald Trump +23.5%)  98.63% precincts   Kamala Harris needs 678.54%    & trends  30.68%
+2024-11-06 07:34  ---  Donald Trump up 532,555  Left (est.): 52,012   Δ:  45,693 (Donald Trump +17.6%)  98.60% precincts   Kamala Harris needs 569.07%    & trends  32.38%
+2024-11-06 07:07  ---  Donald Trump up 516,456  Left (est.): 98,348   Δ:   9,000 (Donald Trump +29.4%)  98.60% precincts   Kamala Harris needs 316.21%    & trends  24.00%
+2024-11-06 06:48  ---  Donald Trump up 511,172  Left (est.): 107,388  Δ:  20,772 (Donald Trump +24.5%)  98.57% precincts   Kamala Harris needs 291.31%    & trends  23.15%
+2024-11-06 06:42  ---  Donald Trump up 501,004  Left (est.): 128,367  Δ:  18,232 (Donald Trump +32.2%)  97.98% precincts   Kamala Harris needs 247.86%    & trends  23.36%
+2024-11-06 06:33  ---  Donald Trump up 489,262  Left (est.): 146,767  Δ:  64,677 (Donald Trump +18.0%)  97.98% precincts   Kamala Harris needs 219.00%    & trends  31.98%
+2024-11-06 06:19  ---  Donald Trump up 465,953  Left (est.): 212,315  Δ:       0 (n/a)                  96.47% precincts   Kamala Harris needs 161.26%    & trends  20.38%
+2024-11-06 06:09  ---  Donald Trump up 465,953  Left (est.): 212,315  Δ:       0 (n/a)                  96.45% precincts   Kamala Harris needs 161.26%    & trends  20.38%
+2024-11-06 05:58  ---  Donald Trump up 465,953  Left (est.): 212,315  Δ:       0 (n/a)                  84.24% precincts   Kamala Harris needs 161.26%    & trends  20.38%
+2024-11-06 05:57  ---  Donald Trump up 465,953  Left (est.): 212,315  Δ:  17,479 (Donald Trump +30.2%)  83.94% precincts   Kamala Harris needs 161.26%    & trends  20.38%
+2024-11-06 05:41  ---  Donald Trump up 455,382  Left (est.): 229,996  Δ:  39,623 (Donald Trump +28.8%)  83.38% precincts   Kamala Harris needs 150.37%    & trends  21.24%
+2024-11-06 05:34  ---  Donald Trump up 432,593  Left (est.): 270,044  Δ:  43,653 (Donald Trump + 2.8%)  82.31% precincts   Kamala Harris needs 131.21%    & trends  47.22%
+2024-11-06 05:29  ---  Donald Trump up 430,166  Left (est.): 314,723  Δ:  30,444 (Donald Trump +23.6%)  81.16% precincts   Kamala Harris needs 119.29%    & trends  26.35%
+2024-11-06 05:22  ---  Donald Trump up 415,766  Left (est.): 345,525  Δ:   7,765 (Donald Trump +31.0%)  80.44% precincts   Kamala Harris needs 111.00%    & trends  24.50%
+2024-11-06 05:16  ---  Donald Trump up 410,959  Left (est.): 353,347  Δ:  24,551 (Donald Trump +23.6%)  47.97% precincts   Kamala Harris needs 108.96%    & trends  29.14%
+2024-11-06 04:58  ---  Donald Trump up 399,374  Left (est.): 378,205  Δ:  19,569 (Donald Trump + 8.6%)  45.96% precincts   Kamala Harris needs 103.53%    & trends  34.43%
+2024-11-06 04:53  ---  Donald Trump up 396,027  Left (est.): 398,118  Δ:   6,212 (Donald Trump +26.1%)  44.92% precincts   Kamala Harris needs 100.43%    & trends  18.74%
+2024-11-06 04:47  ---  Donald Trump up 392,781  Left (est.): 404,388  Δ:  53,728 (Donald Trump +32.6%)  44.64% precincts   Kamala Harris needs 99.24%     & trends  17.40%
+2024-11-06 04:40  ---  Donald Trump up 357,751  Left (est.): 458,560  Δ: 131,472 (Donald Trump +11.9%)  42.93% precincts   Kamala Harris needs 89.55%     & trends  38.12%
+2024-11-06 04:32  ---  Donald Trump up 326,517  Left (est.): 591,388  Δ:  84,263 (Donald Trump + 1.7%)  42.77% precincts   Kamala Harris needs 77.99%     & trends  48.35%
+2024-11-06 04:24  ---  Donald Trump up 323,732  Left (est.): 677,409  Δ:       0 (n/a)                  42.32% precincts   Kamala Harris needs 74.23%     & trends  n/a
+----------------  ---  -----------------------  --------------------  --------------------------------  -----------------  -----------------------------  ----------------
 
 Montana Total Votes: (Donald Trump: 297,934, Kamala Harris: 195,585)
 ----------------  ---  -----------------------  --------------------  ---------------------------------  ----------------  ---------------------------  ----------------
@@ -869,6 +877,10 @@ Montana Total Votes: (Donald Trump: 297,934, Kamala Harris: 195,585)
 
 Nebraska Total Votes: (Donald Trump: 236,522, Kamala Harris: 69,774)
 ----------------  ---  -----------------------  --------------------  ------------------------------------  ----------------  ----------------------------  ------------------
+2024-11-06 14:45  ***  Donald Trump up 166,748  Left (est.): 3,127    Δ:  10,192 (Donald Trump +872.6%)     99.06% precincts  Kamala Harris needs 2747.48%  & trends  -248.20%
+2024-11-06 14:45  ***  Kamala Harris up 11,132  Left (est.): 13,006   Δ: Unknown (Donald Trump +452.1%)     98.91% precincts  Donald Trump needs 93.30%     & trends  -36.43%
+2024-11-06 14:45  ***  Donald Trump up 42,621   Left (est.): 6,743    Δ: Unknown (Donald Trump +12.9%)      98.79% precincts  Kamala Harris needs 369.74%   & trends  -41.70%
+2024-11-06 14:45  ***  Donald Trump up 198,237  Unknown               Δ: 598,153 (Donald Trump + 2.6%)      98.87% precincts  Unknown                       & trends  47.37%
 2024-11-06 14:33  ***  Donald Trump up 166,748  Left (est.): 3,127    Δ:  10,192 (Donald Trump +872.6%)     99.06% precincts  Kamala Harris needs 2747.48%  & trends  -248.20%
 2024-11-06 14:33  ***  Kamala Harris up 11,132  Left (est.): 13,006   Δ: Unknown (Donald Trump +452.1%)     98.91% precincts  Donald Trump needs 93.30%     & trends  -36.43%
 2024-11-06 14:33  ***  Donald Trump up 42,621   Left (est.): 6,743    Δ: Unknown (Donald Trump +12.9%)      98.79% precincts  Kamala Harris needs 369.74%   & trends  -41.70%
@@ -1222,30 +1234,31 @@ New Mexico Total Votes: (Kamala Harris: 469,975, Donald Trump: 419,248)
 2024-11-06 04:24  ---  Kamala Harris up 39,205  Left (est.): 270,865  Δ:       0 (n/a)                   69.76% precincts  Donald Trump needs 57.41%   & trends  n/a
 ----------------  ---  -----------------------  --------------------  ---------------------------------  ----------------  --------------------------  ----------------
 
-New York Total Votes: (Kamala Harris: 4,151,877, Donald Trump: 3,338,581)
+New York Total Votes: (Kamala Harris: 4,152,286, Donald Trump: 3,339,230)
 ----------------  ---  ------------------------  --------------------  ----------------------------------  ----------------  --------------------------  -----------------
-2024-11-06 07:26  ---  Kamala Harris up 813,296  Left (est.): 304,774  Δ:       0 (n/a)                    96.09% precincts  Donald Trump needs 183.43%  & trends  60.40%
-2024-11-06 07:07  ---  Kamala Harris up 813,296  Left (est.): 304,774  Δ:       0 (n/a)                    95.92% precincts  Donald Trump needs 183.43%  & trends  60.40%
-2024-11-06 06:58  ---  Kamala Harris up 813,296  Left (est.): 304,774  Δ: Unknown (Donald Trump + 7.0%)    95.74% precincts  Donald Trump needs 183.43%  & trends  63.53%
-2024-11-06 06:54  ---  Kamala Harris up 811,443  Left (est.): 291,565  Δ:      40 (Donald Trump +50.0%)    95.91% precincts  Donald Trump needs 189.15%  & trends  60.40%
-2024-11-06 06:42  ---  Kamala Harris up 811,483  Left (est.): 291,605  Δ: Unknown (Kamala Harris +26.9%)   93.13% precincts  Donald Trump needs 189.14%  & trends  124.18%
-2024-11-06 06:33  ---  Kamala Harris up 844,118  Left (est.): 231,012  Δ: Unknown (Kamala Harris +189.5%)  93.88% precincts  Donald Trump needs 232.70%  & trends  82.90%
-2024-11-06 06:19  ---  Kamala Harris up 856,708  Left (est.): 227,690  Δ: Unknown (Donald Trump +11.3%)    93.86% precincts  Donald Trump needs 238.13%  & trends  60.45%
-2024-11-06 06:09  ---  Kamala Harris up 856,468  Left (est.): 226,632  Δ: Unknown (Kamala Harris +80.6%)   93.62% precincts  Donald Trump needs 238.96%  & trends  66.29%
-2024-11-06 05:58  ---  Kamala Harris up 859,502  Left (est.): 224,750  Δ:       0 (n/a)                    93.69% precincts  Donald Trump needs 241.21%  & trends  60.35%
-2024-11-06 05:52  ---  Kamala Harris up 859,502  Left (est.): 224,750  Δ:       0 (n/a)                    93.68% precincts  Donald Trump needs 241.21%  & trends  60.35%
-2024-11-06 05:39  ---  Kamala Harris up 859,502  Left (est.): 224,750  Δ:       0 (n/a)                    93.69% precincts  Donald Trump needs 241.21%  & trends  60.35%
-2024-11-06 05:34  ---  Kamala Harris up 859,502  Left (est.): 224,750  Δ:  21,163 (Donald Trump +13.8%)    93.56% precincts  Donald Trump needs 241.21%  & trends  60.35%
-2024-11-06 05:29  ---  Kamala Harris up 865,359  Left (est.): 245,913  Δ:     307 (Kamala Harris + 6.7%)   93.13% precincts  Donald Trump needs 225.95%  & trends  57.70%
-2024-11-06 05:22  ---  Kamala Harris up 865,318  Left (est.): 246,220  Δ:   5,292 (Kamala Harris + 4.9%)   92.78% precincts  Donald Trump needs 225.72%  & trends  57.75%
-2024-11-06 05:16  ---  Kamala Harris up 864,796  Left (est.): 251,512  Δ:  19,791 (Donald Trump +14.1%)    92.31% precincts  Donald Trump needs 221.92%  & trends  58.27%
-2024-11-06 05:06  ---  Kamala Harris up 870,393  Left (est.): 271,303  Δ:     582 (Kamala Harris +22.3%)   89.36% precincts  Donald Trump needs 210.41%  & trends  50.24%
-2024-11-06 04:58  ---  Kamala Harris up 870,133  Left (est.): 271,885  Δ:  13,706 (Kamala Harris + 1.9%)   86.94% precincts  Donald Trump needs 210.02%  & trends  50.73%
-2024-11-06 04:53  ---  Kamala Harris up 869,603  Left (est.): 285,591  Δ: 169,135 (Donald Trump + 3.0%)    86.78% precincts  Donald Trump needs 202.25%  & trends  52.97%
-2024-11-06 04:47  ---  Kamala Harris up 879,664  Left (est.): 454,726  Δ:  15,084 (Donald Trump +10.8%)    84.83% precincts  Donald Trump needs 146.72%  & trends  59.05%
-2024-11-06 04:40  ---  Kamala Harris up 882,932  Left (est.): 469,810  Δ:  41,703 (Donald Trump + 7.3%)    84.65% precincts  Donald Trump needs 143.97%  & trends  57.25%
-2024-11-06 04:32  ---  Kamala Harris up 888,979  Left (est.): 511,513  Δ: 111,558 (Donald Trump + 7.8%)    84.24% precincts  Donald Trump needs 136.90%  & trends  57.79%
-2024-11-06 04:24  ---  Kamala Harris up 906,351  Left (est.): 623,071  Δ:       0 (n/a)                    83.04% precincts  Donald Trump needs 122.73%  & trends  n/a
+2024-11-06 14:45  ***  Kamala Harris up 813,056  Left (est.): 304,054  Δ:   1,058 (Donald Trump +11.3%)    96.10% precincts  Donald Trump needs 183.70%  & trends  60.30%
+2024-11-06 07:26  ---  Kamala Harris up 813,296  Left (est.): 305,112  Δ:       0 (n/a)                    96.09% precincts  Donald Trump needs 183.28%  & trends  60.40%
+2024-11-06 07:07  ---  Kamala Harris up 813,296  Left (est.): 305,112  Δ:       0 (n/a)                    95.92% precincts  Donald Trump needs 183.28%  & trends  60.40%
+2024-11-06 06:58  ---  Kamala Harris up 813,296  Left (est.): 305,112  Δ: Unknown (Donald Trump + 7.0%)    95.74% precincts  Donald Trump needs 183.28%  & trends  63.53%
+2024-11-06 06:54  ---  Kamala Harris up 811,443  Left (est.): 291,903  Δ:      40 (Donald Trump +50.0%)    95.91% precincts  Donald Trump needs 188.99%  & trends  60.40%
+2024-11-06 06:42  ---  Kamala Harris up 811,483  Left (est.): 291,943  Δ: Unknown (Kamala Harris +26.9%)   93.13% precincts  Donald Trump needs 188.98%  & trends  124.18%
+2024-11-06 06:33  ---  Kamala Harris up 844,118  Left (est.): 231,350  Δ: Unknown (Kamala Harris +189.5%)  93.88% precincts  Donald Trump needs 232.43%  & trends  82.90%
+2024-11-06 06:19  ---  Kamala Harris up 856,708  Left (est.): 228,028  Δ: Unknown (Donald Trump +11.3%)    93.86% precincts  Donald Trump needs 237.85%  & trends  60.45%
+2024-11-06 06:09  ---  Kamala Harris up 856,468  Left (est.): 226,970  Δ: Unknown (Kamala Harris +80.6%)   93.62% precincts  Donald Trump needs 238.67%  & trends  66.29%
+2024-11-06 05:58  ---  Kamala Harris up 859,502  Left (est.): 225,088  Δ:       0 (n/a)                    93.69% precincts  Donald Trump needs 240.93%  & trends  60.35%
+2024-11-06 05:52  ---  Kamala Harris up 859,502  Left (est.): 225,088  Δ:       0 (n/a)                    93.68% precincts  Donald Trump needs 240.93%  & trends  60.35%
+2024-11-06 05:39  ---  Kamala Harris up 859,502  Left (est.): 225,088  Δ:       0 (n/a)                    93.69% precincts  Donald Trump needs 240.93%  & trends  60.35%
+2024-11-06 05:34  ---  Kamala Harris up 859,502  Left (est.): 225,088  Δ:  21,163 (Donald Trump +13.8%)    93.56% precincts  Donald Trump needs 240.93%  & trends  60.35%
+2024-11-06 05:29  ---  Kamala Harris up 865,359  Left (est.): 246,251  Δ:     307 (Kamala Harris + 6.7%)   93.13% precincts  Donald Trump needs 225.71%  & trends  57.70%
+2024-11-06 05:22  ---  Kamala Harris up 865,318  Left (est.): 246,558  Δ:   5,292 (Kamala Harris + 4.9%)   92.78% precincts  Donald Trump needs 225.48%  & trends  57.75%
+2024-11-06 05:16  ---  Kamala Harris up 864,796  Left (est.): 251,850  Δ:  19,791 (Donald Trump +14.1%)    92.31% precincts  Donald Trump needs 221.69%  & trends  58.27%
+2024-11-06 05:06  ---  Kamala Harris up 870,393  Left (est.): 271,641  Δ:     582 (Kamala Harris +22.3%)   89.36% precincts  Donald Trump needs 210.21%  & trends  50.24%
+2024-11-06 04:58  ---  Kamala Harris up 870,133  Left (est.): 272,223  Δ:  13,706 (Kamala Harris + 1.9%)   86.94% precincts  Donald Trump needs 209.82%  & trends  50.73%
+2024-11-06 04:53  ---  Kamala Harris up 869,603  Left (est.): 285,929  Δ: 169,135 (Donald Trump + 3.0%)    86.78% precincts  Donald Trump needs 202.07%  & trends  52.97%
+2024-11-06 04:47  ---  Kamala Harris up 879,664  Left (est.): 455,064  Δ:  15,084 (Donald Trump +10.8%)    84.83% precincts  Donald Trump needs 146.65%  & trends  59.05%
+2024-11-06 04:40  ---  Kamala Harris up 882,932  Left (est.): 470,148  Δ:  41,703 (Donald Trump + 7.3%)    84.65% precincts  Donald Trump needs 143.90%  & trends  57.25%
+2024-11-06 04:32  ---  Kamala Harris up 888,979  Left (est.): 511,851  Δ: 111,558 (Donald Trump + 7.8%)    84.24% precincts  Donald Trump needs 136.84%  & trends  57.79%
+2024-11-06 04:24  ---  Kamala Harris up 906,351  Left (est.): 623,409  Δ:       0 (n/a)                    83.04% precincts  Donald Trump needs 122.69%  & trends  n/a
 ----------------  ---  ------------------------  --------------------  ----------------------------------  ----------------  --------------------------  -----------------
 
 North Carolina Total Votes: (Donald Trump: 2,875,538, Kamala Harris: 2,683,995)
@@ -1433,29 +1446,30 @@ South Carolina Total Votes: (Donald Trump: 1,453,690, Kamala Harris: 1,014,531)
 2024-11-06 04:24  ---  Donald Trump up 452,108  Left (est.): 154,690  Δ:       0 (n/a)                      94.50% precincts  Kamala Harris needs 198.24%  & trends  n/a
 ----------------  ---  -----------------------  --------------------  ------------------------------------  ----------------  ---------------------------  ----------------
 
-South Dakota Total Votes: (Donald Trump: 244,023, Kamala Harris: 124,363)
+South Dakota Total Votes: (Donald Trump: 248,308, Kamala Harris: 126,786)
 ----------------  ---  -----------------------  --------------------  ---------------------------------  ----------------  ---------------------------  ----------------
+2024-11-06 14:45  ***  Donald Trump up 121,522  Left (est.): 40,816   Δ:   6,708 (Donald Trump +13.9%)   89.73% precincts  Kamala Harris needs 202.45%  & trends  34.87%
 2024-11-06 13:31  ---  Donald Trump up 119,660  Left (est.): 47,671   Δ:   4,284 (Donald Trump +17.2%)   89.73% precincts  Kamala Harris needs 178.53%  & trends  35.25%
 2024-11-06 13:07  ---  Donald Trump up 118,190  Left (est.): 52,053   Δ:   3,396 (Donald Trump + 4.4%)   89.44% precincts  Kamala Harris needs 166.26%  & trends  37.11%
-2024-11-06 12:55  ---  Donald Trump up 117,892  Left (est.): 55,558   Δ: Unknown (Donald Trump +150.0%)  89.29% precincts  Kamala Harris needs 158.66%  & trends  38.02%
+2024-11-06 12:55  ---  Donald Trump up 117,892  Left (est.): 55,558   Δ: Unknown (Donald Trump +150.0%)  89.29% precincts  Kamala Harris needs 158.65%  & trends  38.02%
 2024-11-06 12:41  ---  Donald Trump up 117,895  Left (est.): 55,557   Δ:   1,182 (Donald Trump +24.9%)   89.29% precincts  Kamala Harris needs 158.66%  & trends  38.01%
-2024-11-06 12:22  ---  Donald Trump up 117,307  Left (est.): 56,765   Δ:     157 (Donald Trump +40.4%)   89.15% precincts  Kamala Harris needs 155.82%  & trends  39.13%
+2024-11-06 12:22  ---  Donald Trump up 117,307  Left (est.): 56,765   Δ:     157 (Donald Trump +40.4%)   89.15% precincts  Kamala Harris needs 155.81%  & trends  39.13%
 2024-11-06 12:02  ---  Donald Trump up 117,180  Left (est.): 56,923   Δ:   1,940 (Donald Trump +18.8%)   88.86% precincts  Kamala Harris needs 155.41%  & trends  39.36%
-2024-11-06 11:45  ---  Donald Trump up 116,452  Left (est.): 58,906   Δ:   8,364 (Donald Trump +15.8%)   88.42% precincts  Kamala Harris needs 151.23%  & trends  40.81%
-2024-11-06 11:31  ---  Donald Trump up 113,802  Left (est.): 67,518   Δ:   4,570 (Donald Trump +17.1%)   86.83% precincts  Kamala Harris needs 136.31%  & trends  41.35%
+2024-11-06 11:45  ---  Donald Trump up 116,452  Left (est.): 58,906   Δ:   8,364 (Donald Trump +15.8%)   88.42% precincts  Kamala Harris needs 151.22%  & trends  40.81%
+2024-11-06 11:31  ---  Donald Trump up 113,802  Left (est.): 67,518   Δ:   4,570 (Donald Trump +17.1%)   86.83% precincts  Kamala Harris needs 136.30%  & trends  41.35%
 2024-11-06 11:18  ---  Donald Trump up 112,242  Left (est.): 72,219   Δ:   7,683 (Donald Trump +11.7%)   84.80% precincts  Kamala Harris needs 129.58%  & trends  42.08%
 2024-11-06 11:01  ---  Donald Trump up 110,447  Left (est.): 80,192   Δ:     711 (Donald Trump + 9.2%)   84.23% precincts  Kamala Harris needs 120.52%  & trends  42.31%
 2024-11-06 10:45  ---  Donald Trump up 110,316  Left (est.): 80,924   Δ:  10,250 (Kamala Harris + 3.6%)  81.62% precincts  Kamala Harris needs 119.80%  & trends  42.27%
 2024-11-06 10:34  ---  Donald Trump up 111,050  Left (est.): 91,420   Δ:   6,495 (Donald Trump +17.1%)   85.09% precincts  Kamala Harris needs 112.20%  & trends  35.87%
 2024-11-06 10:20  ---  Donald Trump up 108,833  Left (est.): 98,141   Δ:     217 (Donald Trump +44.0%)   84.95% precincts  Kamala Harris needs 106.78%  & trends  36.42%
-2024-11-06 10:01  ---  Donald Trump up 108,642  Left (est.): 98,364   Δ:     787 (Donald Trump +20.3%)   84.37% precincts  Kamala Harris needs 106.56%  & trends  36.64%
+2024-11-06 10:01  ---  Donald Trump up 108,642  Left (est.): 98,364   Δ:     787 (Donald Trump +20.3%)   84.37% precincts  Kamala Harris needs 106.55%  & trends  36.64%
 2024-11-06 09:45  ---  Donald Trump up 108,323  Left (est.): 99,159   Δ:  13,918 (Donald Trump +10.8%)   83.79% precincts  Kamala Harris needs 105.94%  & trends  36.30%
 2024-11-06 09:33  ---  Donald Trump up 105,321  Left (est.): 113,326  Δ:   3,735 (Donald Trump +18.0%)   89.73% precincts  Kamala Harris needs 97.59%   & trends  34.87%
 2024-11-06 09:20  ---  Donald Trump up 103,976  Left (est.): 117,190  Δ:  11,656 (Donald Trump +14.5%)   88.71% precincts  Kamala Harris needs 95.43%   & trends  35.37%
 2024-11-06 09:00  ---  Donald Trump up 100,596  Left (est.): 129,151  Δ:     786 (Donald Trump +35.6%)   90.74% precincts  Kamala Harris needs 89.88%   & trends  34.59%
-2024-11-06 08:47  ---  Donald Trump up 100,036  Left (est.): 129,956  Δ:   4,468 (Donald Trump +12.8%)   90.59% precincts  Kamala Harris needs 89.42%   & trends  35.25%
+2024-11-06 08:47  ---  Donald Trump up 100,036  Left (est.): 129,956  Δ:   4,468 (Donald Trump +12.8%)   90.59% precincts  Kamala Harris needs 89.41%   & trends  35.25%
 2024-11-06 08:34  ---  Donald Trump up 98,894   Left (est.): 134,532  Δ:  12,950 (Donald Trump +14.2%)   89.29% precincts  Kamala Harris needs 87.64%   & trends  35.60%
-2024-11-06 08:21  ---  Donald Trump up 95,222   Left (est.): 147,818  Δ:   2,290 (Donald Trump + 9.2%)   87.84% precincts  Kamala Harris needs 82.99%   & trends  37.21%
+2024-11-06 08:21  ---  Donald Trump up 95,222   Left (est.): 147,818  Δ:   2,290 (Donald Trump + 9.2%)   87.84% precincts  Kamala Harris needs 82.98%   & trends  37.21%
 2024-11-06 08:02  ---  Donald Trump up 94,800   Left (est.): 150,155  Δ:   4,002 (Donald Trump +28.7%)   86.83% precincts  Kamala Harris needs 82.33%   & trends  37.11%
 2024-11-06 07:45  ---  Donald Trump up 92,502   Left (est.): 154,248  Δ:  37,732 (Donald Trump +10.5%)   82.34% precincts  Kamala Harris needs 80.71%   & trends  39.55%
 2024-11-06 07:34  ---  Donald Trump up 84,614   Left (est.): 192,807  Δ:   2,253 (Donald Trump +21.7%)   69.61% precincts  Kamala Harris needs 72.47%   & trends  33.40%
