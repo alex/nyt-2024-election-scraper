@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
  <channel>
-  <title>NYT 2020 Election Scraper RSS Feed</title>
-  <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
+  <title>NYT 2024 Election Scraper RSS Feed</title>
+  <link>https://alex.github.io/nyt-2024-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Wed, 06 Nov 2024 07:26:42 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 Nov 2024 07:27:43 -0000</lastBuildDate>
   <item>
    <description>Arizona: Donald Trump +28096</description>
    <pubDate>Wed, 06 Nov 2024 07:26:42 -0000</pubDate>
@@ -26,9 +26,9 @@
    <guid isPermaLink="false">nevada@1730878002.401</guid>
   </item>
   <item>
-   <description>North Carolina: Donald Trump +187605</description>
-   <pubDate>Wed, 06 Nov 2024 07:18:21 -0000</pubDate>
-   <guid isPermaLink="false">north-carolina@1730877501.055</guid>
+   <description>North Carolina: Donald Trump +191543</description>
+   <pubDate>Wed, 06 Nov 2024 07:27:43 -0000</pubDate>
+   <guid isPermaLink="false">north-carolina@1730878063.257</guid>
   </item>
   <item>
    <description>Pennsylvania: Donald Trump +193937</description>
