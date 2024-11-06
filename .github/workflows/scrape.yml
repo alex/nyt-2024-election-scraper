@@ -30,7 +30,6 @@ jobs:
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
 
     - name: Install uv
       uses: astral-sh/setup-uv@v3
@@ -52,4 +51,7 @@ jobs:
         git add -A
         timestamp=$(date -u)
         git commit -m "Regenerate battleground-state-changes.txt/html" || exit 0
-        git push
+
+    - name: Push any changes
+      # Pushing once to avoid triggering & canceling multiple actions.
+      run: git push
