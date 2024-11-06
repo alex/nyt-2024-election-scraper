@@ -1,0 +1,16 @@
+[project]
+name = "nyt-2024-election-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "tabulate",
+    # "pysimdjson", # Bring it back if we end up needing it
+    "GitPython",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.7.2",
+]
